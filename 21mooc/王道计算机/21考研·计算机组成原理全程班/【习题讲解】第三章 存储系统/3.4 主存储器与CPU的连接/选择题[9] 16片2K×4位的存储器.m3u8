@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:17
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/选择题[9] 16片2K×4位的存储器.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=23beb8fd07559855faf6aeaed3d07c4fb1352cba
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215765970_f9b59f2687be43a7814c43b168e5146b_ehd0.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215765970_f9b59f2687be43a7814c43b168e5146b_ehd1.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215765970_f9b59f2687be43a7814c43b168e5146b_ehd2.ts
+#EXTINF:5.100000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215765970_f9b59f2687be43a7814c43b168e5146b_ehd3.ts
+#EXT-X-ENDLIST
+

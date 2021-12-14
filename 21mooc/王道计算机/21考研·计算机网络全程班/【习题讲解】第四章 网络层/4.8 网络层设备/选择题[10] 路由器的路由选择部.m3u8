@@ -1,0 +1,26 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/选择题[10] 路由器的路由选择部.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=12eec34f6ca32a20835afc73854ee9e94153980b
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592262_6ce8d07a4c40425b991b7f3dcf050c0c_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592262_6ce8d07a4c40425b991b7f3dcf050c0c_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592262_6ce8d07a4c40425b991b7f3dcf050c0c_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592262_6ce8d07a4c40425b991b7f3dcf050c0c_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592262_6ce8d07a4c40425b991b7f3dcf050c0c_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592262_6ce8d07a4c40425b991b7f3dcf050c0c_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592262_6ce8d07a4c40425b991b7f3dcf050c0c_ehd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592262_6ce8d07a4c40425b991b7f3dcf050c0c_ehd7.ts
+#EXTINF:1.960000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592262_6ce8d07a4c40425b991b7f3dcf050c0c_ehd8.ts
+#EXT-X-ENDLIST
+

@@ -1,0 +1,22 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:17
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/选择题[30] 在DMA传送方式中,由.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=b12b5fdc9aaded11cfa2856c182a9f171cff6297
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215789441_55e3b080922047ef95f6ad2e23f05933_ehd0.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215789441_55e3b080922047ef95f6ad2e23f05933_ehd1.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215789441_55e3b080922047ef95f6ad2e23f05933_ehd2.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215789441_55e3b080922047ef95f6ad2e23f05933_ehd3.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215789441_55e3b080922047ef95f6ad2e23f05933_ehd4.ts
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215789441_55e3b080922047ef95f6ad2e23f05933_ehd5.ts
+#EXTINF:1.733333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215789441_55e3b080922047ef95f6ad2e23f05933_ehd6.ts
+#EXT-X-ENDLIST
+

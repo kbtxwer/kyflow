@@ -1,0 +1,24 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/综合题[1] 在使用TCP传送数据时.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=c9e08949e1e62687a8e9fd3dac9e03c2b3ebe197
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215594164_2f1a67c1d33349659f30aa30bfb21871_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215594164_2f1a67c1d33349659f30aa30bfb21871_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215594164_2f1a67c1d33349659f30aa30bfb21871_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215594164_2f1a67c1d33349659f30aa30bfb21871_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215594164_2f1a67c1d33349659f30aa30bfb21871_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215594164_2f1a67c1d33349659f30aa30bfb21871_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215594164_2f1a67c1d33349659f30aa30bfb21871_ehd6.ts
+#EXTINF:9.920000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215594164_2f1a67c1d33349659f30aa30bfb21871_ehd7.ts
+#EXT-X-ENDLIST
+

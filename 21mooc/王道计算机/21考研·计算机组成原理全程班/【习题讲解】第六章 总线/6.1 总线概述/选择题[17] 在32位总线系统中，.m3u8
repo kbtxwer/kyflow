@@ -1,0 +1,20 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:17
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/选择题[17] 在32位总线系统中，.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=a6402eded8403c7608d75088aeab2c996d8c9e17
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215785602_cdce1d32f8044edb8cfaf66ad6fe40f1_ehd0.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215785602_cdce1d32f8044edb8cfaf66ad6fe40f1_ehd1.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215785602_cdce1d32f8044edb8cfaf66ad6fe40f1_ehd2.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215785602_cdce1d32f8044edb8cfaf66ad6fe40f1_ehd3.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215785602_cdce1d32f8044edb8cfaf66ad6fe40f1_ehd4.ts
+#EXTINF:9.033333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215785602_cdce1d32f8044edb8cfaf66ad6fe40f1_ehd5.ts
+#EXT-X-ENDLIST
+

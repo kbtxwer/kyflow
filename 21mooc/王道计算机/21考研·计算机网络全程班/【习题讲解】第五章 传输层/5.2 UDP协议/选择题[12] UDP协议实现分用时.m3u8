@@ -1,0 +1,26 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:11
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/选择题[12] UDP协议实现分用时.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=0ec09be779799f039b55f349a5b4f041891c9c05
+#EXTINF:10.416667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215591347_3e191da7b90a4ad79e19ca8902e2703f_esd0.ts
+#EXTINF:10.416667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215591347_3e191da7b90a4ad79e19ca8902e2703f_esd1.ts
+#EXTINF:10.416667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215591347_3e191da7b90a4ad79e19ca8902e2703f_esd2.ts
+#EXTINF:10.416667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215591347_3e191da7b90a4ad79e19ca8902e2703f_esd3.ts
+#EXTINF:10.416667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215591347_3e191da7b90a4ad79e19ca8902e2703f_esd4.ts
+#EXTINF:10.416667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215591347_3e191da7b90a4ad79e19ca8902e2703f_esd5.ts
+#EXTINF:10.416667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215591347_3e191da7b90a4ad79e19ca8902e2703f_esd6.ts
+#EXTINF:10.416667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215591347_3e191da7b90a4ad79e19ca8902e2703f_esd7.ts
+#EXTINF:0.708333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215591347_3e191da7b90a4ad79e19ca8902e2703f_esd8.ts
+#EXT-X-ENDLIST
+

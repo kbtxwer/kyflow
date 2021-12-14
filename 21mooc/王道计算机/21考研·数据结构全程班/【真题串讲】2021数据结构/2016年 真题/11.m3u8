@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/11.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=a6e1bf64a06e2f17a8de7d04e9c9ceca629821b4
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/28/1217179181_2dffba1e0558436f89846fc827c9a297_eshd0.ts
+#EXTINF:7.720000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/28/1217179181_2dffba1e0558436f89846fc827c9a297_eshd1.ts
+#EXT-X-ENDLIST
+

@@ -1,0 +1,38 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:17
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/5.5.4  第五章总结.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=0f27bc64cb18564d8ed4b627e40cf081eb9d8ea4
+#EXTINF:16.520000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/11/12/1215357696_21aba13fdce241ffb6fcd822ddacc3e3_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/11/12/1215357696_21aba13fdce241ffb6fcd822ddacc3e3_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/11/12/1215357696_21aba13fdce241ffb6fcd822ddacc3e3_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/11/12/1215357696_21aba13fdce241ffb6fcd822ddacc3e3_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/11/12/1215357696_21aba13fdce241ffb6fcd822ddacc3e3_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/11/12/1215357696_21aba13fdce241ffb6fcd822ddacc3e3_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/11/12/1215357696_21aba13fdce241ffb6fcd822ddacc3e3_ehd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/11/12/1215357696_21aba13fdce241ffb6fcd822ddacc3e3_ehd7.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/11/12/1215357696_21aba13fdce241ffb6fcd822ddacc3e3_ehd8.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/11/12/1215357696_21aba13fdce241ffb6fcd822ddacc3e3_ehd9.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/11/12/1215357696_21aba13fdce241ffb6fcd822ddacc3e3_ehd10.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/11/12/1215357696_21aba13fdce241ffb6fcd822ddacc3e3_ehd11.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/11/12/1215357696_21aba13fdce241ffb6fcd822ddacc3e3_ehd12.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/11/12/1215357696_21aba13fdce241ffb6fcd822ddacc3e3_ehd13.ts
+#EXTINF:1.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/11/12/1215357696_21aba13fdce241ffb6fcd822ddacc3e3_ehd14.ts
+#EXT-X-ENDLIST
+

@@ -1,0 +1,26 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/选择题[6] 以下关于P2P概念的描.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=6a4c281f02bf89efb0e94c7057f01deefb850d39
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215594199_1089bd4bdb684f7294cc10aea4fdc40c_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215594199_1089bd4bdb684f7294cc10aea4fdc40c_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215594199_1089bd4bdb684f7294cc10aea4fdc40c_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215594199_1089bd4bdb684f7294cc10aea4fdc40c_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215594199_1089bd4bdb684f7294cc10aea4fdc40c_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215594199_1089bd4bdb684f7294cc10aea4fdc40c_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215594199_1089bd4bdb684f7294cc10aea4fdc40c_ehd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215594199_1089bd4bdb684f7294cc10aea4fdc40c_ehd7.ts
+#EXTINF:7.280000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215594199_1089bd4bdb684f7294cc10aea4fdc40c_ehd8.ts
+#EXT-X-ENDLIST
+

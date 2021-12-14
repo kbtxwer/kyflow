@@ -1,0 +1,24 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/选择题[11] 一个16端口的集线器.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=1c5c495bc4280d52131c137ab8c0a64f3ef1cc7b
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592083_e92b064b8ec74e42965bc7d341114097_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592083_e92b064b8ec74e42965bc7d341114097_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592083_e92b064b8ec74e42965bc7d341114097_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592083_e92b064b8ec74e42965bc7d341114097_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592083_e92b064b8ec74e42965bc7d341114097_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592083_e92b064b8ec74e42965bc7d341114097_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592083_e92b064b8ec74e42965bc7d341114097_ehd6.ts
+#EXTINF:1.920000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592083_e92b064b8ec74e42965bc7d341114097_ehd7.ts
+#EXT-X-ENDLIST
+

@@ -1,0 +1,26 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/选择题[4] 在RIP协议中，到某个.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=bc147c98eebb226a347d7748f837fc265df434c7
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215590289_67799edde2b949a880756a2c0dec8aa9_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215590289_67799edde2b949a880756a2c0dec8aa9_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215590289_67799edde2b949a880756a2c0dec8aa9_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215590289_67799edde2b949a880756a2c0dec8aa9_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215590289_67799edde2b949a880756a2c0dec8aa9_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215590289_67799edde2b949a880756a2c0dec8aa9_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215590289_67799edde2b949a880756a2c0dec8aa9_ehd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215590289_67799edde2b949a880756a2c0dec8aa9_ehd7.ts
+#EXTINF:6.640000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215590289_67799edde2b949a880756a2c0dec8aa9_ehd8.ts
+#EXT-X-ENDLIST
+

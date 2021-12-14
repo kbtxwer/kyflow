@@ -1,0 +1,38 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/选择题[55] 由3个“1”和5个“0.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=9af19045ce4ffa9cc36121632d032ca27d20e9e4
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215748872_ae34457bff2d4e9badc1671c9bda43c4_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215748872_ae34457bff2d4e9badc1671c9bda43c4_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215748872_ae34457bff2d4e9badc1671c9bda43c4_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215748872_ae34457bff2d4e9badc1671c9bda43c4_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215748872_ae34457bff2d4e9badc1671c9bda43c4_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215748872_ae34457bff2d4e9badc1671c9bda43c4_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215748872_ae34457bff2d4e9badc1671c9bda43c4_ehd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215748872_ae34457bff2d4e9badc1671c9bda43c4_ehd7.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215748872_ae34457bff2d4e9badc1671c9bda43c4_ehd8.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215748872_ae34457bff2d4e9badc1671c9bda43c4_ehd9.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215748872_ae34457bff2d4e9badc1671c9bda43c4_ehd10.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215748872_ae34457bff2d4e9badc1671c9bda43c4_ehd11.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215748872_ae34457bff2d4e9badc1671c9bda43c4_ehd12.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215748872_ae34457bff2d4e9badc1671c9bda43c4_ehd13.ts
+#EXTINF:4.400000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215748872_ae34457bff2d4e9badc1671c9bda43c4_ehd14.ts
+#EXT-X-ENDLIST
+

@@ -1,0 +1,20 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:17
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/选择题[8] 磁盘驱动器向盘片磁.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=732d20fa126fce45f4586400ea8d60ad25b9b95a
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215790404_78acf6954978443f82cee22ace400738_ehd0.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215790404_78acf6954978443f82cee22ace400738_ehd1.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215790404_78acf6954978443f82cee22ace400738_ehd2.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215790404_78acf6954978443f82cee22ace400738_ehd3.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215790404_78acf6954978443f82cee22ace400738_ehd4.ts
+#EXTINF:14.166667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215790404_78acf6954978443f82cee22ace400738_ehd5.ts
+#EXT-X-ENDLIST
+

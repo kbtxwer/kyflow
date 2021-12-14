@@ -1,0 +1,24 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:17
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/选择题[8] 在CPU的寄存器中,( ).key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=9d6c08635afd2c917fc468d59137caf0a7a5f248
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215782611_e083769ab582442c8b7f46c362427a95_ehd0.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215782611_e083769ab582442c8b7f46c362427a95_ehd1.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215782611_e083769ab582442c8b7f46c362427a95_ehd2.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215782611_e083769ab582442c8b7f46c362427a95_ehd3.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215782611_e083769ab582442c8b7f46c362427a95_ehd4.ts
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215782611_e083769ab582442c8b7f46c362427a95_ehd5.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215782611_e083769ab582442c8b7f46c362427a95_ehd6.ts
+#EXTINF:0.100000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215782611_e083769ab582442c8b7f46c362427a95_ehd7.ts
+#EXT-X-ENDLIST
+

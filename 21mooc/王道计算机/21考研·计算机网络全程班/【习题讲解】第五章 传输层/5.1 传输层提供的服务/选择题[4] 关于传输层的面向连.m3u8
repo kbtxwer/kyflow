@@ -1,0 +1,32 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/选择题[4] 关于传输层的面向连.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=8220e4753747bd44cfaa43c973d73a5d135bd83f
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215589337_d60accb9d3b74f76aa696db1993108ef_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215589337_d60accb9d3b74f76aa696db1993108ef_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215589337_d60accb9d3b74f76aa696db1993108ef_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215589337_d60accb9d3b74f76aa696db1993108ef_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215589337_d60accb9d3b74f76aa696db1993108ef_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215589337_d60accb9d3b74f76aa696db1993108ef_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215589337_d60accb9d3b74f76aa696db1993108ef_ehd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215589337_d60accb9d3b74f76aa696db1993108ef_ehd7.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215589337_d60accb9d3b74f76aa696db1993108ef_ehd8.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215589337_d60accb9d3b74f76aa696db1993108ef_ehd9.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215589337_d60accb9d3b74f76aa696db1993108ef_ehd10.ts
+#EXTINF:9.560000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215589337_d60accb9d3b74f76aa696db1993108ef_ehd11.ts
+#EXT-X-ENDLIST
+

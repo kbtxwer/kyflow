@@ -1,0 +1,26 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/综合题[1] 为什么要使用UDP？让.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=03bc5613a67a975ca0473bc6188c3674d85493c6
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592309_ff42d78522b04f499be182f4dde75a25_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592309_ff42d78522b04f499be182f4dde75a25_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592309_ff42d78522b04f499be182f4dde75a25_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592309_ff42d78522b04f499be182f4dde75a25_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592309_ff42d78522b04f499be182f4dde75a25_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592309_ff42d78522b04f499be182f4dde75a25_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592309_ff42d78522b04f499be182f4dde75a25_ehd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592309_ff42d78522b04f499be182f4dde75a25_ehd7.ts
+#EXTINF:7.400000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592309_ff42d78522b04f499be182f4dde75a25_ehd8.ts
+#EXT-X-ENDLIST
+

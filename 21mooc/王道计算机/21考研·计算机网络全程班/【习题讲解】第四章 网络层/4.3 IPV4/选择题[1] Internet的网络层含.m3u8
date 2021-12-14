@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/选择题[1] Internet的网络层含.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=1d71d47b27f1f2d2a22cd8e89fbc744bd0784761
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215589214_917f6c11764f4a7e939748d4e33cca9e_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215589214_917f6c11764f4a7e939748d4e33cca9e_ehd1.ts
+#EXTINF:9.800000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215589214_917f6c11764f4a7e939748d4e33cca9e_ehd2.ts
+#EXT-X-ENDLIST
+

@@ -1,0 +1,18 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/选择题[2] SMTP基于传输层的（.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=d2c25ec23a60bd4e7beda1c6e6905f996095d3ef
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215594346_e13baf68d52b4e709ff76109ee75a333_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215594346_e13baf68d52b4e709ff76109ee75a333_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215594346_e13baf68d52b4e709ff76109ee75a333_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215594346_e13baf68d52b4e709ff76109ee75a333_ehd3.ts
+#EXTINF:9.040000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215594346_e13baf68d52b4e709ff76109ee75a333_ehd4.ts
+#EXT-X-ENDLIST
+

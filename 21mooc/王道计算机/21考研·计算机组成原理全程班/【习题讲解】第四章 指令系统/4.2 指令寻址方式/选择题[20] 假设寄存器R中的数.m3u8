@@ -1,0 +1,24 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:17
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/选择题[20] 假设寄存器R中的数.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=856d0a7c54340a49e6c0a40cd382e74f92c62437
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215780530_96ad8519639141a98911087f9fbbc0f3_ehd0.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215780530_96ad8519639141a98911087f9fbbc0f3_ehd1.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215780530_96ad8519639141a98911087f9fbbc0f3_ehd2.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215780530_96ad8519639141a98911087f9fbbc0f3_ehd3.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215780530_96ad8519639141a98911087f9fbbc0f3_ehd4.ts
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215780530_96ad8519639141a98911087f9fbbc0f3_ehd5.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215780530_96ad8519639141a98911087f9fbbc0f3_ehd6.ts
+#EXTINF:2.433333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215780530_96ad8519639141a98911087f9fbbc0f3_ehd7.ts
+#EXT-X-ENDLIST
+

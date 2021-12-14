@@ -1,0 +1,24 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:17
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/选择题[4] 只有当程序执行时才.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=7f6831992667c3740d663c73798716ad9177328d
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215601919_e7ec13d2676f4eadb70c3934b33e96de_ehd0.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215601919_e7ec13d2676f4eadb70c3934b33e96de_ehd1.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215601919_e7ec13d2676f4eadb70c3934b33e96de_ehd2.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215601919_e7ec13d2676f4eadb70c3934b33e96de_ehd3.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215601919_e7ec13d2676f4eadb70c3934b33e96de_ehd4.ts
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215601919_e7ec13d2676f4eadb70c3934b33e96de_ehd5.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215601919_e7ec13d2676f4eadb70c3934b33e96de_ehd6.ts
+#EXTINF:6.466667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215601919_e7ec13d2676f4eadb70c3934b33e96de_ehd7.ts
+#EXT-X-ENDLIST
+

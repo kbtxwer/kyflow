@@ -1,0 +1,22 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/选择题[12] 若内存地址区间为40.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=32bea79a028dcadb3b789891c8607a2403139a20
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755990_163242ef28834c6aaa6564193f3550b5_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755990_163242ef28834c6aaa6564193f3550b5_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755990_163242ef28834c6aaa6564193f3550b5_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755990_163242ef28834c6aaa6564193f3550b5_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755990_163242ef28834c6aaa6564193f3550b5_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755990_163242ef28834c6aaa6564193f3550b5_ehd5.ts
+#EXTINF:5.160000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755990_163242ef28834c6aaa6564193f3550b5_ehd6.ts
+#EXT-X-ENDLIST
+

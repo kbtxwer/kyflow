@@ -1,0 +1,38 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/10.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=6acd051e820e58c7bd83201ab689de3f02921e9f
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/31/1217189580_abc36dbaaaa14d928adf5058c283b27a_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/31/1217189580_abc36dbaaaa14d928adf5058c283b27a_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/31/1217189580_abc36dbaaaa14d928adf5058c283b27a_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/31/1217189580_abc36dbaaaa14d928adf5058c283b27a_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/31/1217189580_abc36dbaaaa14d928adf5058c283b27a_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/31/1217189580_abc36dbaaaa14d928adf5058c283b27a_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/31/1217189580_abc36dbaaaa14d928adf5058c283b27a_ehd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/31/1217189580_abc36dbaaaa14d928adf5058c283b27a_ehd7.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/31/1217189580_abc36dbaaaa14d928adf5058c283b27a_ehd8.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/31/1217189580_abc36dbaaaa14d928adf5058c283b27a_ehd9.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/31/1217189580_abc36dbaaaa14d928adf5058c283b27a_ehd10.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/31/1217189580_abc36dbaaaa14d928adf5058c283b27a_ehd11.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/31/1217189580_abc36dbaaaa14d928adf5058c283b27a_ehd12.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/31/1217189580_abc36dbaaaa14d928adf5058c283b27a_ehd13.ts
+#EXTINF:5.360000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/31/1217189580_abc36dbaaaa14d928adf5058c283b27a_ehd14.ts
+#EXT-X-ENDLIST
+

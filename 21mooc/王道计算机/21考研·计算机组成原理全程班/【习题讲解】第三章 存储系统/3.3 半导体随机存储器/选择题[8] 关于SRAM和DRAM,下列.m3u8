@@ -1,0 +1,20 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:17
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/选择题[8] 关于SRAM和DRAM,下列.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=7d0c0c240136963ab818ebd06c32999f1b648b03
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215765919_2ef0b2005b65491ab08334051bda9b36_ehd0.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215765919_2ef0b2005b65491ab08334051bda9b36_ehd1.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215765919_2ef0b2005b65491ab08334051bda9b36_ehd2.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215765919_2ef0b2005b65491ab08334051bda9b36_ehd3.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215765919_2ef0b2005b65491ab08334051bda9b36_ehd4.ts
+#EXTINF:0.366667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215765919_2ef0b2005b65491ab08334051bda9b36_ehd5.ts
+#EXT-X-ENDLIST
+

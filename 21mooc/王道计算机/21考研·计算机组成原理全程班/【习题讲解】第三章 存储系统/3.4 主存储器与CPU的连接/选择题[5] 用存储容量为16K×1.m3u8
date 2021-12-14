@@ -1,0 +1,20 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:17
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/选择题[5] 用存储容量为16K×1.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=9c6c72c34f860e1cf28059910efc3a492b413c9d
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215759995_29f883645a9342df9ef3cbf8bedcc963_ehd0.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215759995_29f883645a9342df9ef3cbf8bedcc963_ehd1.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215759995_29f883645a9342df9ef3cbf8bedcc963_ehd2.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215759995_29f883645a9342df9ef3cbf8bedcc963_ehd3.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215759995_29f883645a9342df9ef3cbf8bedcc963_ehd4.ts
+#EXTINF:2.033333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215759995_29f883645a9342df9ef3cbf8bedcc963_ehd5.ts
+#EXT-X-ENDLIST
+

@@ -1,0 +1,22 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/选择题[13] IEEE 802局域网标准.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=56d6ee7039723559df88b2c5f581e45fcd700451
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592907_976cfa87488f4fc5b872ca5743010d01_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592907_976cfa87488f4fc5b872ca5743010d01_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592907_976cfa87488f4fc5b872ca5743010d01_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592907_976cfa87488f4fc5b872ca5743010d01_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592907_976cfa87488f4fc5b872ca5743010d01_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592907_976cfa87488f4fc5b872ca5743010d01_ehd5.ts
+#EXTINF:7.240000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592907_976cfa87488f4fc5b872ca5743010d01_ehd6.ts
+#EXT-X-ENDLIST
+

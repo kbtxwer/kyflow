@@ -1,0 +1,32 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/选择题[47] 以下关于ICMP协议的.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=026f869e0ffed609b396e4335ee6feea76d7a3f4
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215593110_dd502e671e4f490f937b43357ba72f50_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215593110_dd502e671e4f490f937b43357ba72f50_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215593110_dd502e671e4f490f937b43357ba72f50_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215593110_dd502e671e4f490f937b43357ba72f50_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215593110_dd502e671e4f490f937b43357ba72f50_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215593110_dd502e671e4f490f937b43357ba72f50_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215593110_dd502e671e4f490f937b43357ba72f50_ehd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215593110_dd502e671e4f490f937b43357ba72f50_ehd7.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215593110_dd502e671e4f490f937b43357ba72f50_ehd8.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215593110_dd502e671e4f490f937b43357ba72f50_ehd9.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215593110_dd502e671e4f490f937b43357ba72f50_ehd10.ts
+#EXTINF:3.960000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215593110_dd502e671e4f490f937b43357ba72f50_ehd11.ts
+#EXT-X-ENDLIST
+

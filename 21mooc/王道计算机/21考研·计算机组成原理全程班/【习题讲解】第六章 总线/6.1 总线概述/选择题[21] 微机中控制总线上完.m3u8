@@ -1,0 +1,26 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:17
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/选择题[21] 微机中控制总线上完.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=6c289db57cdbfb261b9aa7aa9d7199480ffc6960
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215786130_00704d49234e4296a1e35acd1cec88f4_ehd0.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215786130_00704d49234e4296a1e35acd1cec88f4_ehd1.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215786130_00704d49234e4296a1e35acd1cec88f4_ehd2.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215786130_00704d49234e4296a1e35acd1cec88f4_ehd3.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215786130_00704d49234e4296a1e35acd1cec88f4_ehd4.ts
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215786130_00704d49234e4296a1e35acd1cec88f4_ehd5.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215786130_00704d49234e4296a1e35acd1cec88f4_ehd6.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215786130_00704d49234e4296a1e35acd1cec88f4_ehd7.ts
+#EXTINF:7.833333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215786130_00704d49234e4296a1e35acd1cec88f4_ehd8.ts
+#EXT-X-ENDLIST
+

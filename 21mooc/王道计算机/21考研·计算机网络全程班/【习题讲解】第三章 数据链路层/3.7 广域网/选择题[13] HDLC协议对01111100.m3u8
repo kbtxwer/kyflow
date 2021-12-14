@@ -1,0 +1,22 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/选择题[13] HDLC协议对01111100.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=587fbf7ff996bd688bd31d62d8a0b2edc292b384
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215590086_93fed224dcf3419a94e34b4f963ee49f_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215590086_93fed224dcf3419a94e34b4f963ee49f_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215590086_93fed224dcf3419a94e34b4f963ee49f_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215590086_93fed224dcf3419a94e34b4f963ee49f_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215590086_93fed224dcf3419a94e34b4f963ee49f_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215590086_93fed224dcf3419a94e34b4f963ee49f_ehd5.ts
+#EXTINF:7.840000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215590086_93fed224dcf3419a94e34b4f963ee49f_ehd6.ts
+#EXT-X-ENDLIST
+

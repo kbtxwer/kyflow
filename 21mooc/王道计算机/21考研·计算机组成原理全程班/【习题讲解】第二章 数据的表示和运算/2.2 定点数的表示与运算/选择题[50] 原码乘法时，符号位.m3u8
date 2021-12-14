@@ -1,0 +1,22 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:17
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/选择题[50] 原码乘法时，符号位.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=3f90cd4e714649709e7a21f6b412cf66fc5ba00c
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215748860_cd2a9b11f848444ab93a9b58b14accf7_ehd0.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215748860_cd2a9b11f848444ab93a9b58b14accf7_ehd1.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215748860_cd2a9b11f848444ab93a9b58b14accf7_ehd2.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215748860_cd2a9b11f848444ab93a9b58b14accf7_ehd3.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215748860_cd2a9b11f848444ab93a9b58b14accf7_ehd4.ts
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215748860_cd2a9b11f848444ab93a9b58b14accf7_ehd5.ts
+#EXTINF:4.900000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215748860_cd2a9b11f848444ab93a9b58b14accf7_ehd6.ts
+#EXT-X-ENDLIST
+
