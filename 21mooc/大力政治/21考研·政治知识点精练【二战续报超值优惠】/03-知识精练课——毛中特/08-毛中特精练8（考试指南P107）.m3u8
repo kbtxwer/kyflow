@@ -1,0 +1,38 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/08-毛中特精练8（考试指南P107）.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=21bc7d22f927641f27f6fb0d029b83e7aeec0a08
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217133772_81dda597fa444f6fbf99be0ed30c3ba2_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217133772_81dda597fa444f6fbf99be0ed30c3ba2_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217133772_81dda597fa444f6fbf99be0ed30c3ba2_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217133772_81dda597fa444f6fbf99be0ed30c3ba2_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217133772_81dda597fa444f6fbf99be0ed30c3ba2_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217133772_81dda597fa444f6fbf99be0ed30c3ba2_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217133772_81dda597fa444f6fbf99be0ed30c3ba2_ehd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217133772_81dda597fa444f6fbf99be0ed30c3ba2_ehd7.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217133772_81dda597fa444f6fbf99be0ed30c3ba2_ehd8.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217133772_81dda597fa444f6fbf99be0ed30c3ba2_ehd9.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217133772_81dda597fa444f6fbf99be0ed30c3ba2_ehd10.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217133772_81dda597fa444f6fbf99be0ed30c3ba2_ehd11.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217133772_81dda597fa444f6fbf99be0ed30c3ba2_ehd12.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217133772_81dda597fa444f6fbf99be0ed30c3ba2_ehd13.ts
+#EXTINF:7.920000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217133772_81dda597fa444f6fbf99be0ed30c3ba2_ehd14.ts
+#EXT-X-ENDLIST
+

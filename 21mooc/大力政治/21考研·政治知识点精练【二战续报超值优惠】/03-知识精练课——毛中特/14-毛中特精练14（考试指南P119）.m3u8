@@ -1,0 +1,38 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/14-毛中特精练14（考试指南P119）.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=bb92f80c1c17e2309a1da0e21cb99f3f1439ab27
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217135972_ac0703e60b9d455abb9bead7a21b2875_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217135972_ac0703e60b9d455abb9bead7a21b2875_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217135972_ac0703e60b9d455abb9bead7a21b2875_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217135972_ac0703e60b9d455abb9bead7a21b2875_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217135972_ac0703e60b9d455abb9bead7a21b2875_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217135972_ac0703e60b9d455abb9bead7a21b2875_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217135972_ac0703e60b9d455abb9bead7a21b2875_ehd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217135972_ac0703e60b9d455abb9bead7a21b2875_ehd7.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217135972_ac0703e60b9d455abb9bead7a21b2875_ehd8.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217135972_ac0703e60b9d455abb9bead7a21b2875_ehd9.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217135972_ac0703e60b9d455abb9bead7a21b2875_ehd10.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217135972_ac0703e60b9d455abb9bead7a21b2875_ehd11.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217135972_ac0703e60b9d455abb9bead7a21b2875_ehd12.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217135972_ac0703e60b9d455abb9bead7a21b2875_ehd13.ts
+#EXTINF:2.560000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217135972_ac0703e60b9d455abb9bead7a21b2875_ehd14.ts
+#EXT-X-ENDLIST
+
