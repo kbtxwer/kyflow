@@ -1,0 +1,26 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/39-史纲精练39（考试指南P260）.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=257ec2f2343716f4345ae5b07089e8adf08860ea
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/10/1217113940_6441cbeb0ed74571aaca388730d7069f_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/10/1217113940_6441cbeb0ed74571aaca388730d7069f_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/10/1217113940_6441cbeb0ed74571aaca388730d7069f_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/10/1217113940_6441cbeb0ed74571aaca388730d7069f_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/10/1217113940_6441cbeb0ed74571aaca388730d7069f_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/10/1217113940_6441cbeb0ed74571aaca388730d7069f_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/10/1217113940_6441cbeb0ed74571aaca388730d7069f_ehd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/10/1217113940_6441cbeb0ed74571aaca388730d7069f_ehd7.ts
+#EXTINF:6.080000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/10/1217113940_6441cbeb0ed74571aaca388730d7069f_ehd8.ts
+#EXT-X-ENDLIST
+
