@@ -1,0 +1,26 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/006-选择题[6] 组成一个运算器需要.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=2a39181c57612dee88f52229522e36fb874000b8
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215753908_8a4d903a429f44cfba4d76187ec5a78d_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215753908_8a4d903a429f44cfba4d76187ec5a78d_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215753908_8a4d903a429f44cfba4d76187ec5a78d_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215753908_8a4d903a429f44cfba4d76187ec5a78d_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215753908_8a4d903a429f44cfba4d76187ec5a78d_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215753908_8a4d903a429f44cfba4d76187ec5a78d_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215753908_8a4d903a429f44cfba4d76187ec5a78d_ehd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215753908_8a4d903a429f44cfba4d76187ec5a78d_ehd7.ts
+#EXTINF:7.280000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215753908_8a4d903a429f44cfba4d76187ec5a78d_ehd8.ts
+#EXT-X-ENDLIST
+

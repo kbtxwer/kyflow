@@ -1,0 +1,26 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/017-2.2.11 本节总结.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=04850a6ca87e1d6879142044b11da04643037896
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/11/12/1215357406_6927c9afe2574de7bf480d3c7f7eceae_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/11/12/1215357406_6927c9afe2574de7bf480d3c7f7eceae_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/11/12/1215357406_6927c9afe2574de7bf480d3c7f7eceae_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/11/12/1215357406_6927c9afe2574de7bf480d3c7f7eceae_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/11/12/1215357406_6927c9afe2574de7bf480d3c7f7eceae_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/11/12/1215357406_6927c9afe2574de7bf480d3c7f7eceae_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/11/12/1215357406_6927c9afe2574de7bf480d3c7f7eceae_ehd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/11/12/1215357406_6927c9afe2574de7bf480d3c7f7eceae_ehd7.ts
+#EXTINF:4.720000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/11/12/1215357406_6927c9afe2574de7bf480d3c7f7eceae_ehd8.ts
+#EXT-X-ENDLIST
+

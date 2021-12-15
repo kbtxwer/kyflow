@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:28
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/009-选择题[9] 高度为h的完全二叉树.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=130c1fbc680d4088026d5e4fb5be6661244a278c
+#EXTINF:27.777778,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/05/1215869721_fe09d543c72940128dbc7dbfb561ec13_eshd0.ts
+#EXTINF:27.777778,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/05/1215869721_fe09d543c72940128dbc7dbfb561ec13_eshd1.ts
+#EXTINF:21.444444,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/05/1215869721_fe09d543c72940128dbc7dbfb561ec13_eshd2.ts
+#EXT-X-ENDLIST
+

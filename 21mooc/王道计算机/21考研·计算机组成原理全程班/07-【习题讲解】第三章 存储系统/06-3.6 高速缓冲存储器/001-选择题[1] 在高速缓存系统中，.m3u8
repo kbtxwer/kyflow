@@ -1,0 +1,20 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:17
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/001-选择题[1] 在高速缓存系统中，.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=6a40a14671eacf40cea0d7d6454e60dbea90b1f6
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215746032_cd5cfc01f3a24892bf37a0f58f1388d3_ehd0.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215746032_cd5cfc01f3a24892bf37a0f58f1388d3_ehd1.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215746032_cd5cfc01f3a24892bf37a0f58f1388d3_ehd2.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215746032_cd5cfc01f3a24892bf37a0f58f1388d3_ehd3.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215746032_cd5cfc01f3a24892bf37a0f58f1388d3_ehd4.ts
+#EXTINF:15.833333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215746032_cd5cfc01f3a24892bf37a0f58f1388d3_ehd5.ts
+#EXT-X-ENDLIST
+

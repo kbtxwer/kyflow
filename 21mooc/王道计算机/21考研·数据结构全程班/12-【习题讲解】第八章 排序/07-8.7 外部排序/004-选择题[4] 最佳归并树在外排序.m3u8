@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:28
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/004-选择题[4] 最佳归并树在外排序.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=f1777fc4fc6fbf1763e54790e16c76a17931514e
+#EXTINF:27.777778,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/06/1215877973_687f72ad7c0948bdbc4143c14d322aa9_eshd0.ts
+#EXTINF:27.777778,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/06/1215877973_687f72ad7c0948bdbc4143c14d322aa9_eshd1.ts
+#EXTINF:27.777778,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/06/1215877973_687f72ad7c0948bdbc4143c14d322aa9_eshd2.ts
+#EXTINF:17.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/06/1215877973_687f72ad7c0948bdbc4143c14d322aa9_eshd3.ts
+#EXT-X-ENDLIST
+									

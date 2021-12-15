@@ -1,0 +1,38 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/005-选择题[5] 一个有n个顶点的图用.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=88852d53bd58d80ecaddd9669e1b43162eb32e6d
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215537163_162dfabb6cf64d0a8531a7866b41586f_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215537163_162dfabb6cf64d0a8531a7866b41586f_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215537163_162dfabb6cf64d0a8531a7866b41586f_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215537163_162dfabb6cf64d0a8531a7866b41586f_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215537163_162dfabb6cf64d0a8531a7866b41586f_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215537163_162dfabb6cf64d0a8531a7866b41586f_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215537163_162dfabb6cf64d0a8531a7866b41586f_ehd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215537163_162dfabb6cf64d0a8531a7866b41586f_ehd7.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215537163_162dfabb6cf64d0a8531a7866b41586f_ehd8.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215537163_162dfabb6cf64d0a8531a7866b41586f_ehd9.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215537163_162dfabb6cf64d0a8531a7866b41586f_ehd10.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215537163_162dfabb6cf64d0a8531a7866b41586f_ehd11.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215537163_162dfabb6cf64d0a8531a7866b41586f_ehd12.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215537163_162dfabb6cf64d0a8531a7866b41586f_ehd13.ts
+#EXTINF:1.720000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215537163_162dfabb6cf64d0a8531a7866b41586f_ehd14.ts
+#EXT-X-ENDLIST
+

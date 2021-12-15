@@ -1,0 +1,26 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/014-选择题[14] 虚拟存储器的最大容.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=c750907bc5a977296823df7fbb5ff29f6ad463c1
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215598709_4e81450b4e07485f88a0a2d8dc1d65b6_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215598709_4e81450b4e07485f88a0a2d8dc1d65b6_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215598709_4e81450b4e07485f88a0a2d8dc1d65b6_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215598709_4e81450b4e07485f88a0a2d8dc1d65b6_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215598709_4e81450b4e07485f88a0a2d8dc1d65b6_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215598709_4e81450b4e07485f88a0a2d8dc1d65b6_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215598709_4e81450b4e07485f88a0a2d8dc1d65b6_ehd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215598709_4e81450b4e07485f88a0a2d8dc1d65b6_ehd7.ts
+#EXTINF:5.920000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215598709_4e81450b4e07485f88a0a2d8dc1d65b6_ehd8.ts
+#EXT-X-ENDLIST
+

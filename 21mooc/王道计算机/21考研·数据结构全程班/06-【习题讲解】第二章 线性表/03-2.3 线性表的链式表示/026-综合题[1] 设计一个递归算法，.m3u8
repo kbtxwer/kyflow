@@ -1,0 +1,30 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/026-综合题[1] 设计一个递归算法，.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=2f3075dae954e59fb9c38986928cbb6c1ecaa217
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/03/30/1216354866_df22dacc40a7452f9dff5103fd814d9e_eshd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/03/30/1216354866_df22dacc40a7452f9dff5103fd814d9e_eshd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/03/30/1216354866_df22dacc40a7452f9dff5103fd814d9e_eshd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/03/30/1216354866_df22dacc40a7452f9dff5103fd814d9e_eshd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/03/30/1216354866_df22dacc40a7452f9dff5103fd814d9e_eshd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/03/30/1216354866_df22dacc40a7452f9dff5103fd814d9e_eshd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/03/30/1216354866_df22dacc40a7452f9dff5103fd814d9e_eshd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/03/30/1216354866_df22dacc40a7452f9dff5103fd814d9e_eshd7.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/03/30/1216354866_df22dacc40a7452f9dff5103fd814d9e_eshd8.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/03/30/1216354866_df22dacc40a7452f9dff5103fd814d9e_eshd9.ts
+#EXTINF:8.960000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/03/30/1216354866_df22dacc40a7452f9dff5103fd814d9e_eshd10.ts
+#EXT-X-ENDLIST
+

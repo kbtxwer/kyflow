@@ -1,0 +1,32 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/011-选择题[11] 在有向图的邻接表存.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=3f845489353d571441e52d40743c8e5419106b82
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215534199_f285ad5618f7448b91ac9f347e8af584_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215534199_f285ad5618f7448b91ac9f347e8af584_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215534199_f285ad5618f7448b91ac9f347e8af584_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215534199_f285ad5618f7448b91ac9f347e8af584_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215534199_f285ad5618f7448b91ac9f347e8af584_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215534199_f285ad5618f7448b91ac9f347e8af584_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215534199_f285ad5618f7448b91ac9f347e8af584_ehd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215534199_f285ad5618f7448b91ac9f347e8af584_ehd7.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215534199_f285ad5618f7448b91ac9f347e8af584_ehd8.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215534199_f285ad5618f7448b91ac9f347e8af584_ehd9.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215534199_f285ad5618f7448b91ac9f347e8af584_ehd10.ts
+#EXTINF:1.960000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215534199_f285ad5618f7448b91ac9f347e8af584_ehd11.ts
+#EXT-X-ENDLIST
+

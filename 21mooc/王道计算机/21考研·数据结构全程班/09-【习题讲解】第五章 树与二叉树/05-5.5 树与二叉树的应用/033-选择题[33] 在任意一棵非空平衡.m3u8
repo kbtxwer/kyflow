@@ -1,0 +1,32 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:17
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/033-选择题[33] 在任意一棵非空平衡.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=b87467b2991542a4a6265872984ba3e5bc717e7c
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/05/26/1216800152_7ba58ac26e0c4e9a9ee23f61061e26e9_esd0.ts
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/05/26/1216800152_7ba58ac26e0c4e9a9ee23f61061e26e9_esd1.ts
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/05/26/1216800152_7ba58ac26e0c4e9a9ee23f61061e26e9_esd2.ts
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/05/26/1216800152_7ba58ac26e0c4e9a9ee23f61061e26e9_esd3.ts
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/05/26/1216800152_7ba58ac26e0c4e9a9ee23f61061e26e9_esd4.ts
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/05/26/1216800152_7ba58ac26e0c4e9a9ee23f61061e26e9_esd5.ts
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/05/26/1216800152_7ba58ac26e0c4e9a9ee23f61061e26e9_esd6.ts
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/05/26/1216800152_7ba58ac26e0c4e9a9ee23f61061e26e9_esd7.ts
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/05/26/1216800152_7ba58ac26e0c4e9a9ee23f61061e26e9_esd8.ts
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/05/26/1216800152_7ba58ac26e0c4e9a9ee23f61061e26e9_esd9.ts
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/05/26/1216800152_7ba58ac26e0c4e9a9ee23f61061e26e9_esd10.ts
+#EXTINF:16.600000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/05/26/1216800152_7ba58ac26e0c4e9a9ee23f61061e26e9_esd11.ts
+#EXT-X-ENDLIST
+

@@ -1,24 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:17
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-KEY:METHOD=AES-128,URI="key/选择题[1] 电子计算机的发展已经.key"
-#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=69264d10ec6bd9a90c3914316681db8debfaf95c
-#EXTINF:16.666667,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215603891_bb4b3846af364613897044772260fec9_ehd0.ts
-#EXTINF:8.333333,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215603891_bb4b3846af364613897044772260fec9_ehd1.ts
-#EXTINF:8.333333,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215603891_bb4b3846af364613897044772260fec9_ehd2.ts
-#EXTINF:8.333333,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215603891_bb4b3846af364613897044772260fec9_ehd3.ts
-#EXTINF:8.333333,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215603891_bb4b3846af364613897044772260fec9_ehd4.ts
-#EXTINF:16.666667,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215603891_bb4b3846af364613897044772260fec9_ehd5.ts
-#EXTINF:8.333333,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215603891_bb4b3846af364613897044772260fec9_ehd6.ts
-#EXTINF:3.266667,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215603891_bb4b3846af364613897044772260fec9_ehd7.ts
-#EXT-X-ENDLIST
-

@@ -1,0 +1,24 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/017-选择题[17] 在虚拟存储器系统的.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=44698800a7bdf824b036542e445b3a7bcd85b79a
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599638_2c93096211e1442ab8e36ef6e95ecfbc_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599638_2c93096211e1442ab8e36ef6e95ecfbc_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599638_2c93096211e1442ab8e36ef6e95ecfbc_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599638_2c93096211e1442ab8e36ef6e95ecfbc_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599638_2c93096211e1442ab8e36ef6e95ecfbc_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599638_2c93096211e1442ab8e36ef6e95ecfbc_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599638_2c93096211e1442ab8e36ef6e95ecfbc_ehd6.ts
+#EXTINF:9.200000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599638_2c93096211e1442ab8e36ef6e95ecfbc_ehd7.ts
+#EXT-X-ENDLIST
+

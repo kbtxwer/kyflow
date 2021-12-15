@@ -1,0 +1,26 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/030-选择题[30] 主机甲与主机乙之间.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=f557805e6200b2d4b345d18240e477d30209fff7
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592353_e27d971957be4be39a8c961374ca0001_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592353_e27d971957be4be39a8c961374ca0001_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592353_e27d971957be4be39a8c961374ca0001_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592353_e27d971957be4be39a8c961374ca0001_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592353_e27d971957be4be39a8c961374ca0001_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592353_e27d971957be4be39a8c961374ca0001_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592353_e27d971957be4be39a8c961374ca0001_ehd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592353_e27d971957be4be39a8c961374ca0001_ehd7.ts
+#EXTINF:0.600000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592353_e27d971957be4be39a8c961374ca0001_ehd8.ts
+#EXT-X-ENDLIST
+

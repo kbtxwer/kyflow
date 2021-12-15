@@ -1,0 +1,22 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/014-选择题[14] 具有5层结点的AVL树.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=1f11cdcdba5c64dd1e8afa7e6e44610b88b617e5
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215534178_1f5f0ecac7d04aea8cc2f582936a0579_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215534178_1f5f0ecac7d04aea8cc2f582936a0579_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215534178_1f5f0ecac7d04aea8cc2f582936a0579_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215534178_1f5f0ecac7d04aea8cc2f582936a0579_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215534178_1f5f0ecac7d04aea8cc2f582936a0579_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215534178_1f5f0ecac7d04aea8cc2f582936a0579_ehd5.ts
+#EXTINF:2.720000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215534178_1f5f0ecac7d04aea8cc2f582936a0579_ehd6.ts
+#EXT-X-ENDLIST
+

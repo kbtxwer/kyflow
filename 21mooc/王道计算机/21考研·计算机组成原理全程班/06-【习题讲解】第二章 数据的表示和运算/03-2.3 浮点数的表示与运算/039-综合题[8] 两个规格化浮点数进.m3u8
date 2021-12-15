@@ -1,0 +1,26 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:17
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/039-综合题[8] 两个规格化浮点数进.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=bee020aed5c66cba109fcd05b23f94a4cdcd3a19
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755891_9a965620ff7344a0a717361efbed1908_ehd0.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755891_9a965620ff7344a0a717361efbed1908_ehd1.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755891_9a965620ff7344a0a717361efbed1908_ehd2.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755891_9a965620ff7344a0a717361efbed1908_ehd3.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755891_9a965620ff7344a0a717361efbed1908_ehd4.ts
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755891_9a965620ff7344a0a717361efbed1908_ehd5.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755891_9a965620ff7344a0a717361efbed1908_ehd6.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755891_9a965620ff7344a0a717361efbed1908_ehd7.ts
+#EXTINF:6.133333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755891_9a965620ff7344a0a717361efbed1908_ehd8.ts
+#EXT-X-ENDLIST
+

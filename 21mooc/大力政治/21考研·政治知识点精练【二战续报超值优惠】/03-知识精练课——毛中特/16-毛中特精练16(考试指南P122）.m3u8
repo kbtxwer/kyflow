@@ -1,32 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-KEY:METHOD=AES-128,URI="key/16-毛中特精练16(考试指南P122）.key"
-#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=bf7142807105497cfb67f53663005e7048ca18b6
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217136957_07b118ab98394112adeb3d75a60b8491_ehd0.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217136957_07b118ab98394112adeb3d75a60b8491_ehd1.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217136957_07b118ab98394112adeb3d75a60b8491_ehd2.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217136957_07b118ab98394112adeb3d75a60b8491_ehd3.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217136957_07b118ab98394112adeb3d75a60b8491_ehd4.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217136957_07b118ab98394112adeb3d75a60b8491_ehd5.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217136957_07b118ab98394112adeb3d75a60b8491_ehd6.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217136957_07b118ab98394112adeb3d75a60b8491_ehd7.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217136957_07b118ab98394112adeb3d75a60b8491_ehd8.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217136957_07b118ab98394112adeb3d75a60b8491_ehd9.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217136957_07b118ab98394112adeb3d75a60b8491_ehd10.ts
-#EXTINF:7.080000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217136957_07b118ab98394112adeb3d75a60b8491_ehd11.ts
-#EXT-X-ENDLIST
-

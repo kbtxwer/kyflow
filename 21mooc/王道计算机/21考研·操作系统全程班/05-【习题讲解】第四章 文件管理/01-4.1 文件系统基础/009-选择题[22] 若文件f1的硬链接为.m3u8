@@ -1,0 +1,38 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/009-选择题[22] 若文件f1的硬链接为.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=7ab1711e476547de905482427ab1d058a1e2fd41
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215602809_8fb02e51146840ac984f38ee6ac0616c_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215602809_8fb02e51146840ac984f38ee6ac0616c_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215602809_8fb02e51146840ac984f38ee6ac0616c_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215602809_8fb02e51146840ac984f38ee6ac0616c_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215602809_8fb02e51146840ac984f38ee6ac0616c_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215602809_8fb02e51146840ac984f38ee6ac0616c_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215602809_8fb02e51146840ac984f38ee6ac0616c_ehd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215602809_8fb02e51146840ac984f38ee6ac0616c_ehd7.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215602809_8fb02e51146840ac984f38ee6ac0616c_ehd8.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215602809_8fb02e51146840ac984f38ee6ac0616c_ehd9.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215602809_8fb02e51146840ac984f38ee6ac0616c_ehd10.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215602809_8fb02e51146840ac984f38ee6ac0616c_ehd11.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215602809_8fb02e51146840ac984f38ee6ac0616c_ehd12.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215602809_8fb02e51146840ac984f38ee6ac0616c_ehd13.ts
+#EXTINF:5.040000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215602809_8fb02e51146840ac984f38ee6ac0616c_ehd14.ts
+#EXT-X-ENDLIST
+

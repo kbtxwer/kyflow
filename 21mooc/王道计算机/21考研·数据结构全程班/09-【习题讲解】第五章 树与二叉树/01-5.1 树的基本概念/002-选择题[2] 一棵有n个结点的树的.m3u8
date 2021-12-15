@@ -1,0 +1,32 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/002-选择题[2] 一棵有n个结点的树的.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=e9ac992723aefeb97703291697648ef2b84a1b8d
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/16/1215525995_7e83b1acb0ba4414b027ab8ca2545498_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/16/1215525995_7e83b1acb0ba4414b027ab8ca2545498_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/16/1215525995_7e83b1acb0ba4414b027ab8ca2545498_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/16/1215525995_7e83b1acb0ba4414b027ab8ca2545498_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/16/1215525995_7e83b1acb0ba4414b027ab8ca2545498_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/16/1215525995_7e83b1acb0ba4414b027ab8ca2545498_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/16/1215525995_7e83b1acb0ba4414b027ab8ca2545498_ehd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/16/1215525995_7e83b1acb0ba4414b027ab8ca2545498_ehd7.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/16/1215525995_7e83b1acb0ba4414b027ab8ca2545498_ehd8.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/16/1215525995_7e83b1acb0ba4414b027ab8ca2545498_ehd9.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/16/1215525995_7e83b1acb0ba4414b027ab8ca2545498_ehd10.ts
+#EXTINF:7.960000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/16/1215525995_7e83b1acb0ba4414b027ab8ca2545498_ehd11.ts
+#EXT-X-ENDLIST
+

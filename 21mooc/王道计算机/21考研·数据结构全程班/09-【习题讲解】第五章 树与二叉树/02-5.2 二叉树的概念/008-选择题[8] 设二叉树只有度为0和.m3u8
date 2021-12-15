@@ -1,0 +1,20 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/008-选择题[8] 设二叉树只有度为0和.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=f40c1640ad6756af09c349ace457c519c2d35cd9
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216052053_a55fed1eb2af45c4af129f48e29973a0_eshd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216052053_a55fed1eb2af45c4af129f48e29973a0_eshd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216052053_a55fed1eb2af45c4af129f48e29973a0_eshd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216052053_a55fed1eb2af45c4af129f48e29973a0_eshd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216052053_a55fed1eb2af45c4af129f48e29973a0_eshd4.ts
+#EXTINF:7.600000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216052053_a55fed1eb2af45c4af129f48e29973a0_eshd5.ts
+#EXT-X-ENDLIST
+

@@ -1,0 +1,26 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/001-选择题[9] 设有三个作业，其运.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=add14d85dd8783e5bbc34f4cb2048f57a5cec827
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215593729_dce4ede17dba491a8c7cc28cb67665f6_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215593729_dce4ede17dba491a8c7cc28cb67665f6_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215593729_dce4ede17dba491a8c7cc28cb67665f6_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215593729_dce4ede17dba491a8c7cc28cb67665f6_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215593729_dce4ede17dba491a8c7cc28cb67665f6_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215593729_dce4ede17dba491a8c7cc28cb67665f6_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215593729_dce4ede17dba491a8c7cc28cb67665f6_ehd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215593729_dce4ede17dba491a8c7cc28cb67665f6_ehd7.ts
+#EXTINF:1.320000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215593729_dce4ede17dba491a8c7cc28cb67665f6_ehd8.ts
+#EXT-X-ENDLIST
+

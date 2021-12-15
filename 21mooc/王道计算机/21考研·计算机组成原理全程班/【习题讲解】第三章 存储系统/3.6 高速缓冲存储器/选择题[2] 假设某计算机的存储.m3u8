@@ -1,26 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-KEY:METHOD=AES-128,URI="key/选择题[2] 假设某计算机的存储.key"
-#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=27ad0c108af85723e7cb6397758191f00bd8c09a
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215749011_f761f8d00d214d5c98f952500769340d_ehd0.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215749011_f761f8d00d214d5c98f952500769340d_ehd1.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215749011_f761f8d00d214d5c98f952500769340d_ehd2.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215749011_f761f8d00d214d5c98f952500769340d_ehd3.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215749011_f761f8d00d214d5c98f952500769340d_ehd4.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215749011_f761f8d00d214d5c98f952500769340d_ehd5.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215749011_f761f8d00d214d5c98f952500769340d_ehd6.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215749011_f761f8d00d214d5c98f952500769340d_ehd7.ts
-#EXTINF:0.560000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215749011_f761f8d00d214d5c98f952500769340d_ehd8.ts
-#EXT-X-ENDLIST
-

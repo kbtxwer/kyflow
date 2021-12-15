@@ -1,0 +1,26 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/037-综合题[2] 若某非空二叉树的先.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=cc2177e33e8bdd0e20d87c297ddafaf3e61e4a61
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/16/1215530075_f47c5f8e80474a06b1273d1718b1b424_eshd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/16/1215530075_f47c5f8e80474a06b1273d1718b1b424_eshd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/16/1215530075_f47c5f8e80474a06b1273d1718b1b424_eshd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/16/1215530075_f47c5f8e80474a06b1273d1718b1b424_eshd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/16/1215530075_f47c5f8e80474a06b1273d1718b1b424_eshd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/16/1215530075_f47c5f8e80474a06b1273d1718b1b424_eshd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/16/1215530075_f47c5f8e80474a06b1273d1718b1b424_eshd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/16/1215530075_f47c5f8e80474a06b1273d1718b1b424_eshd7.ts
+#EXTINF:1.440000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/16/1215530075_f47c5f8e80474a06b1273d1718b1b424_eshd8.ts
+#EXT-X-ENDLIST
+

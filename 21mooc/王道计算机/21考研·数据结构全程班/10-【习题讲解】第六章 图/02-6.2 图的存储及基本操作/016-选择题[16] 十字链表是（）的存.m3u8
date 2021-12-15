@@ -1,0 +1,24 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/016-选择题[16] 十字链表是（）的存.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=9e0b17c955a0c7a3b07d421c890b93d5c602652c
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215535166_f23d226cf9fd474da11180765f0cd3a6_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215535166_f23d226cf9fd474da11180765f0cd3a6_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215535166_f23d226cf9fd474da11180765f0cd3a6_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215535166_f23d226cf9fd474da11180765f0cd3a6_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215535166_f23d226cf9fd474da11180765f0cd3a6_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215535166_f23d226cf9fd474da11180765f0cd3a6_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215535166_f23d226cf9fd474da11180765f0cd3a6_ehd6.ts
+#EXTINF:0.120000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215535166_f23d226cf9fd474da11180765f0cd3a6_ehd7.ts
+#EXT-X-ENDLIST
+

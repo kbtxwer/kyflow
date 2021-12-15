@@ -1,0 +1,24 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/013-选择题[13] TCP的滑动窗口协议.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=be3b79306fa07cab7370f2c27eae8f0abb321e92
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215593305_7c8972b6578f4dd09a85610fa51f9654_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215593305_7c8972b6578f4dd09a85610fa51f9654_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215593305_7c8972b6578f4dd09a85610fa51f9654_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215593305_7c8972b6578f4dd09a85610fa51f9654_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215593305_7c8972b6578f4dd09a85610fa51f9654_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215593305_7c8972b6578f4dd09a85610fa51f9654_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215593305_7c8972b6578f4dd09a85610fa51f9654_ehd6.ts
+#EXTINF:4.200000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215593305_7c8972b6578f4dd09a85610fa51f9654_ehd7.ts
+#EXT-X-ENDLIST
+

@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:17
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/007-选择题[7] 总线的异步通信方式.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=026bab0f642278eaa573e3302b60750f0799708c
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215790041_e4986e7f6b9846b8bc541f6eb29f8ca7_ehd0.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215790041_e4986e7f6b9846b8bc541f6eb29f8ca7_ehd1.ts
+#EXTINF:3.933333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215790041_e4986e7f6b9846b8bc541f6eb29f8ca7_ehd2.ts
+#EXT-X-ENDLIST
+									

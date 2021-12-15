@@ -1,0 +1,70 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/002-选择题[2] 文件系统中，文件访.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=c31e6c22e2b8a4954efb92210135e2447406103d
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599691_53e6b030c40040e49b1ede84cf01a082_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599691_53e6b030c40040e49b1ede84cf01a082_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599691_53e6b030c40040e49b1ede84cf01a082_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599691_53e6b030c40040e49b1ede84cf01a082_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599691_53e6b030c40040e49b1ede84cf01a082_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599691_53e6b030c40040e49b1ede84cf01a082_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599691_53e6b030c40040e49b1ede84cf01a082_ehd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599691_53e6b030c40040e49b1ede84cf01a082_ehd7.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599691_53e6b030c40040e49b1ede84cf01a082_ehd8.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599691_53e6b030c40040e49b1ede84cf01a082_ehd9.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599691_53e6b030c40040e49b1ede84cf01a082_ehd10.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599691_53e6b030c40040e49b1ede84cf01a082_ehd11.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599691_53e6b030c40040e49b1ede84cf01a082_ehd12.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599691_53e6b030c40040e49b1ede84cf01a082_ehd13.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599691_53e6b030c40040e49b1ede84cf01a082_ehd14.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599691_53e6b030c40040e49b1ede84cf01a082_ehd15.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599691_53e6b030c40040e49b1ede84cf01a082_ehd16.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599691_53e6b030c40040e49b1ede84cf01a082_ehd17.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599691_53e6b030c40040e49b1ede84cf01a082_ehd18.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599691_53e6b030c40040e49b1ede84cf01a082_ehd19.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599691_53e6b030c40040e49b1ede84cf01a082_ehd20.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599691_53e6b030c40040e49b1ede84cf01a082_ehd21.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599691_53e6b030c40040e49b1ede84cf01a082_ehd22.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599691_53e6b030c40040e49b1ede84cf01a082_ehd23.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599691_53e6b030c40040e49b1ede84cf01a082_ehd24.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599691_53e6b030c40040e49b1ede84cf01a082_ehd25.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599691_53e6b030c40040e49b1ede84cf01a082_ehd26.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599691_53e6b030c40040e49b1ede84cf01a082_ehd27.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599691_53e6b030c40040e49b1ede84cf01a082_ehd28.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599691_53e6b030c40040e49b1ede84cf01a082_ehd29.ts
+#EXTINF:0.200000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215599691_53e6b030c40040e49b1ede84cf01a082_ehd30.ts
+#EXT-X-ENDLIST
+

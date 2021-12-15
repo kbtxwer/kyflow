@@ -1,0 +1,20 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:17
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/010-选择题[10] 设CPU地址总线有24.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=ad8f7e8cc839e9bd8d3564477127598a0d99a7ed
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755994_c92183eeae6d4435b98ffdc2f3c1257b_ehd0.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755994_c92183eeae6d4435b98ffdc2f3c1257b_ehd1.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755994_c92183eeae6d4435b98ffdc2f3c1257b_ehd2.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755994_c92183eeae6d4435b98ffdc2f3c1257b_ehd3.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755994_c92183eeae6d4435b98ffdc2f3c1257b_ehd4.ts
+#EXTINF:14.366667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755994_c92183eeae6d4435b98ffdc2f3c1257b_ehd5.ts
+#EXT-X-ENDLIST
+

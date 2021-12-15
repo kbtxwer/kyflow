@@ -1,0 +1,24 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:17
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/019-选择题[19] 在浮点数编码表示中.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=9c5809b52748f3184c880ece4eafb16ac6ca72ed
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215748891_e3e9ce2400894667853466e65ce5dc7f_ehd0.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215748891_e3e9ce2400894667853466e65ce5dc7f_ehd1.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215748891_e3e9ce2400894667853466e65ce5dc7f_ehd2.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215748891_e3e9ce2400894667853466e65ce5dc7f_ehd3.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215748891_e3e9ce2400894667853466e65ce5dc7f_ehd4.ts
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215748891_e3e9ce2400894667853466e65ce5dc7f_ehd5.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215748891_e3e9ce2400894667853466e65ce5dc7f_ehd6.ts
+#EXTINF:5.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215748891_e3e9ce2400894667853466e65ce5dc7f_ehd7.ts
+#EXT-X-ENDLIST
+

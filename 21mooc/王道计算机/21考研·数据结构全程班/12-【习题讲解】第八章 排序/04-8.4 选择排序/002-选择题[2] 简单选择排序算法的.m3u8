@@ -1,0 +1,26 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/002-选择题[2] 简单选择排序算法的.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=8f3d5935e6ba32c686c64a48551eb757c93df0f2
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/24/1215561582_b80e4e0361cf4a01a97f525a7c1cf646_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/24/1215561582_b80e4e0361cf4a01a97f525a7c1cf646_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/24/1215561582_b80e4e0361cf4a01a97f525a7c1cf646_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/24/1215561582_b80e4e0361cf4a01a97f525a7c1cf646_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/24/1215561582_b80e4e0361cf4a01a97f525a7c1cf646_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/24/1215561582_b80e4e0361cf4a01a97f525a7c1cf646_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/24/1215561582_b80e4e0361cf4a01a97f525a7c1cf646_ehd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/24/1215561582_b80e4e0361cf4a01a97f525a7c1cf646_ehd7.ts
+#EXTINF:5.080000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/24/1215561582_b80e4e0361cf4a01a97f525a7c1cf646_ehd8.ts
+#EXT-X-ENDLIST
+

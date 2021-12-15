@@ -1,0 +1,24 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/008-选择题[8] 对包含n个元素的散列.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=3469ce3d0ac394a156254729436404b3ba7f37a1
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/20/1215544344_666635a1a17641d48ebae4c87142370e_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/20/1215544344_666635a1a17641d48ebae4c87142370e_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/20/1215544344_666635a1a17641d48ebae4c87142370e_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/20/1215544344_666635a1a17641d48ebae4c87142370e_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/20/1215544344_666635a1a17641d48ebae4c87142370e_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/20/1215544344_666635a1a17641d48ebae4c87142370e_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/20/1215544344_666635a1a17641d48ebae4c87142370e_ehd6.ts
+#EXTINF:5.400000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/20/1215544344_666635a1a17641d48ebae4c87142370e_ehd7.ts
+#EXT-X-ENDLIST
+

@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:17
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-KEY:METHOD=AES-128,URI="key/008-30.key"
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/09/07/508/aa4ed1de-3ca0-4e1a-bd27-b751004294a0_e8-0.ts
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/09/07/508/aa4ed1de-3ca0-4e1a-bd27-b751004294a0_e8-1.ts
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/09/07/508/aa4ed1de-3ca0-4e1a-bd27-b751004294a0_e8-2.ts
+#EXTINF:6.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/09/07/508/aa4ed1de-3ca0-4e1a-bd27-b751004294a0_e8-3.ts
+#EXT-X-ENDLIST
+									

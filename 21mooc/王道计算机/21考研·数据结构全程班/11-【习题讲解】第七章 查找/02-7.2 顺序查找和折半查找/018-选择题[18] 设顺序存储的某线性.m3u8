@@ -1,0 +1,22 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/018-选择题[18] 设顺序存储的某线性.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=39c54300fe484f30fa4d5bfb8a313874213c1037
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/20/1215548161_2e2094c2002d41e98c5bd29c80d23cf2_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/20/1215548161_2e2094c2002d41e98c5bd29c80d23cf2_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/20/1215548161_2e2094c2002d41e98c5bd29c80d23cf2_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/20/1215548161_2e2094c2002d41e98c5bd29c80d23cf2_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/20/1215548161_2e2094c2002d41e98c5bd29c80d23cf2_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/20/1215548161_2e2094c2002d41e98c5bd29c80d23cf2_ehd5.ts
+#EXTINF:1.920000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/20/1215548161_2e2094c2002d41e98c5bd29c80d23cf2_ehd6.ts
+#EXT-X-ENDLIST
+

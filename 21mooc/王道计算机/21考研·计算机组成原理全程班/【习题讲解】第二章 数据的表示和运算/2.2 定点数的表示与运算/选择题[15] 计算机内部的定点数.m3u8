@@ -1,40 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:17
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-KEY:METHOD=AES-128,URI="key/选择题[15] 计算机内部的定点数.key"
-#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=1e74b30f7e120a717ef09f3f49bfe5144dfbd53d
-#EXTINF:16.666667,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755854_ef83468c0ae446129cffcb2f6721f4b3_ehd0.ts
-#EXTINF:8.333333,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755854_ef83468c0ae446129cffcb2f6721f4b3_ehd1.ts
-#EXTINF:8.333333,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755854_ef83468c0ae446129cffcb2f6721f4b3_ehd2.ts
-#EXTINF:8.333333,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755854_ef83468c0ae446129cffcb2f6721f4b3_ehd3.ts
-#EXTINF:8.333333,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755854_ef83468c0ae446129cffcb2f6721f4b3_ehd4.ts
-#EXTINF:16.666667,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755854_ef83468c0ae446129cffcb2f6721f4b3_ehd5.ts
-#EXTINF:8.333333,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755854_ef83468c0ae446129cffcb2f6721f4b3_ehd6.ts
-#EXTINF:8.333333,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755854_ef83468c0ae446129cffcb2f6721f4b3_ehd7.ts
-#EXTINF:8.333333,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755854_ef83468c0ae446129cffcb2f6721f4b3_ehd8.ts
-#EXTINF:8.333333,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755854_ef83468c0ae446129cffcb2f6721f4b3_ehd9.ts
-#EXTINF:16.666667,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755854_ef83468c0ae446129cffcb2f6721f4b3_ehd10.ts
-#EXTINF:8.333333,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755854_ef83468c0ae446129cffcb2f6721f4b3_ehd11.ts
-#EXTINF:8.333333,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755854_ef83468c0ae446129cffcb2f6721f4b3_ehd12.ts
-#EXTINF:8.333333,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755854_ef83468c0ae446129cffcb2f6721f4b3_ehd13.ts
-#EXTINF:8.333333,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755854_ef83468c0ae446129cffcb2f6721f4b3_ehd14.ts
-#EXTINF:8.266667,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755854_ef83468c0ae446129cffcb2f6721f4b3_ehd15.ts
-#EXT-X-ENDLIST
-

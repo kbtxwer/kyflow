@@ -1,32 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-KEY:METHOD=AES-128,URI="key/选择题[3] DNS是基于（）模式的.key"
-#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=8986038952ec8c94df540c90dd3ffc33574952c8
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/21/1215833362_c862e273952b45f4bb26ba2815d78767_ehd0.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/21/1215833362_c862e273952b45f4bb26ba2815d78767_ehd1.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/21/1215833362_c862e273952b45f4bb26ba2815d78767_ehd2.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/21/1215833362_c862e273952b45f4bb26ba2815d78767_ehd3.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/21/1215833362_c862e273952b45f4bb26ba2815d78767_ehd4.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/21/1215833362_c862e273952b45f4bb26ba2815d78767_ehd5.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/21/1215833362_c862e273952b45f4bb26ba2815d78767_ehd6.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/21/1215833362_c862e273952b45f4bb26ba2815d78767_ehd7.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/21/1215833362_c862e273952b45f4bb26ba2815d78767_ehd8.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/21/1215833362_c862e273952b45f4bb26ba2815d78767_ehd9.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/21/1215833362_c862e273952b45f4bb26ba2815d78767_ehd10.ts
-#EXTINF:7.840000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/21/1215833362_c862e273952b45f4bb26ba2815d78767_ehd11.ts
-#EXT-X-ENDLIST
-

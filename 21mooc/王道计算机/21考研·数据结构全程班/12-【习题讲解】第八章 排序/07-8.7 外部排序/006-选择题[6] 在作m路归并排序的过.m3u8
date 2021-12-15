@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:28
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/006-选择题[6] 在作m路归并排序的过.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=d4b849fccd555cf17aee98d1945f8f594eb030a2
+#EXTINF:27.777778,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/06/1215877038_8d039f6b79af4a52ae5a0f48bfbf224e_eshd0.ts
+#EXTINF:27.777778,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/06/1215877038_8d039f6b79af4a52ae5a0f48bfbf224e_eshd1.ts
+#EXTINF:7.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/06/1215877038_8d039f6b79af4a52ae5a0f48bfbf224e_eshd2.ts
+#EXT-X-ENDLIST
+

@@ -1,0 +1,26 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/004-4.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=b8c757be4bb82c28bc3989d6299ff7bcb2a49694
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/31/1217190851_3609ec9e964b40979d9f0ad9940479f5_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/31/1217190851_3609ec9e964b40979d9f0ad9940479f5_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/31/1217190851_3609ec9e964b40979d9f0ad9940479f5_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/31/1217190851_3609ec9e964b40979d9f0ad9940479f5_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/31/1217190851_3609ec9e964b40979d9f0ad9940479f5_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/31/1217190851_3609ec9e964b40979d9f0ad9940479f5_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/31/1217190851_3609ec9e964b40979d9f0ad9940479f5_ehd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/31/1217190851_3609ec9e964b40979d9f0ad9940479f5_ehd7.ts
+#EXTINF:7.440000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/31/1217190851_3609ec9e964b40979d9f0ad9940479f5_ehd8.ts
+#EXT-X-ENDLIST
+

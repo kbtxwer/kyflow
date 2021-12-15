@@ -1,26 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-KEY:METHOD=AES-128,URI="key/选择题[3] 某同步总线的时钟频.key"
-#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=41fe63d1dcba39e775df9bdb943aba58aa54ca24
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215785597_2dcfcb711c3b43bda1a04c7f25e4d8dc_ehd0.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215785597_2dcfcb711c3b43bda1a04c7f25e4d8dc_ehd1.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215785597_2dcfcb711c3b43bda1a04c7f25e4d8dc_ehd2.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215785597_2dcfcb711c3b43bda1a04c7f25e4d8dc_ehd3.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215785597_2dcfcb711c3b43bda1a04c7f25e4d8dc_ehd4.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215785597_2dcfcb711c3b43bda1a04c7f25e4d8dc_ehd5.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215785597_2dcfcb711c3b43bda1a04c7f25e4d8dc_ehd6.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215785597_2dcfcb711c3b43bda1a04c7f25e4d8dc_ehd7.ts
-#EXTINF:1.800000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215785597_2dcfcb711c3b43bda1a04c7f25e4d8dc_ehd8.ts
-#EXT-X-ENDLIST
-

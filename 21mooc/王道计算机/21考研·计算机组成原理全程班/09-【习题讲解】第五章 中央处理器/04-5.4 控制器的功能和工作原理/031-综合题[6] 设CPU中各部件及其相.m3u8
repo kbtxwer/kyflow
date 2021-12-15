@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/031-综合题[6] 设CPU中各部件及其相.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=c462753467a3572f6750e45aa4421bc27d60345d
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215780754_682b4d442f934f73bd43aa2410b0d7bd_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215780754_682b4d442f934f73bd43aa2410b0d7bd_ehd1.ts
+#EXTINF:7.280000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215780754_682b4d442f934f73bd43aa2410b0d7bd_ehd2.ts
+#EXT-X-ENDLIST
+

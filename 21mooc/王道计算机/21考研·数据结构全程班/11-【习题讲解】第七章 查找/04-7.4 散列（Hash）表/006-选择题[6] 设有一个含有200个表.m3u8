@@ -1,0 +1,22 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/006-选择题[6] 设有一个含有200个表.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=8cb0c2cca0761879546c8edb535a2a8c0e6f30be
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/20/1215545282_e4729cbe0cb84bd69151dc3326c2245d_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/20/1215545282_e4729cbe0cb84bd69151dc3326c2245d_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/20/1215545282_e4729cbe0cb84bd69151dc3326c2245d_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/20/1215545282_e4729cbe0cb84bd69151dc3326c2245d_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/20/1215545282_e4729cbe0cb84bd69151dc3326c2245d_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/20/1215545282_e4729cbe0cb84bd69151dc3326c2245d_ehd5.ts
+#EXTINF:8.320000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/20/1215545282_e4729cbe0cb84bd69151dc3326c2245d_ehd6.ts
+#EXT-X-ENDLIST
+

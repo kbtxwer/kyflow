@@ -1,0 +1,26 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/012-选择题[12] 在有向图G的拓扑序.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=6ebecdb69edeaaf2ae1675a6e6346a7465f4a547
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/20/1215549139_0b3c0560a901415e901cdeea8f32d420_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/20/1215549139_0b3c0560a901415e901cdeea8f32d420_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/20/1215549139_0b3c0560a901415e901cdeea8f32d420_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/20/1215549139_0b3c0560a901415e901cdeea8f32d420_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/20/1215549139_0b3c0560a901415e901cdeea8f32d420_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/20/1215549139_0b3c0560a901415e901cdeea8f32d420_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/20/1215549139_0b3c0560a901415e901cdeea8f32d420_ehd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/20/1215549139_0b3c0560a901415e901cdeea8f32d420_ehd7.ts
+#EXTINF:3.760000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/20/1215549139_0b3c0560a901415e901cdeea8f32d420_ehd8.ts
+#EXT-X-ENDLIST
+

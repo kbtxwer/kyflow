@@ -1,0 +1,24 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/008-选择题[8] 路由器中计算路由信.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=7908b6d1798b973cd6e3a16d8d8632ac7aafa285
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215593232_99bda9bd73e2438eb91ab3765fad5466_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215593232_99bda9bd73e2438eb91ab3765fad5466_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215593232_99bda9bd73e2438eb91ab3765fad5466_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215593232_99bda9bd73e2438eb91ab3765fad5466_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215593232_99bda9bd73e2438eb91ab3765fad5466_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215593232_99bda9bd73e2438eb91ab3765fad5466_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215593232_99bda9bd73e2438eb91ab3765fad5466_ehd6.ts
+#EXTINF:6.200000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215593232_99bda9bd73e2438eb91ab3765fad5466_ehd7.ts
+#EXT-X-ENDLIST
+

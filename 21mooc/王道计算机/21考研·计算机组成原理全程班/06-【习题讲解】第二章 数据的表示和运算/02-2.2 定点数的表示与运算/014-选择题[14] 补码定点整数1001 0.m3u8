@@ -1,0 +1,20 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:17
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/014-选择题[14] 补码定点整数1001 0.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=f8b0e6605aa6db44146651eb99b1f788498c43d1
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215745862_6be8c82a93da4dbcbb4889b252ea05b8_ehd0.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215745862_6be8c82a93da4dbcbb4889b252ea05b8_ehd1.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215745862_6be8c82a93da4dbcbb4889b252ea05b8_ehd2.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215745862_6be8c82a93da4dbcbb4889b252ea05b8_ehd3.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215745862_6be8c82a93da4dbcbb4889b252ea05b8_ehd4.ts
+#EXTINF:11.733333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215745862_6be8c82a93da4dbcbb4889b252ea05b8_ehd5.ts
+#EXT-X-ENDLIST
+

@@ -1,0 +1,24 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/023-选择题[23] 用PCM对语音进行数.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=7970cffd8fc125e4922621bfd2abb5b40633f96b
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215587697_158a6104d5da486dba417975671a5a0d_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215587697_158a6104d5da486dba417975671a5a0d_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215587697_158a6104d5da486dba417975671a5a0d_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215587697_158a6104d5da486dba417975671a5a0d_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215587697_158a6104d5da486dba417975671a5a0d_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215587697_158a6104d5da486dba417975671a5a0d_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215587697_158a6104d5da486dba417975671a5a0d_ehd6.ts
+#EXTINF:9.240000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215587697_158a6104d5da486dba417975671a5a0d_ehd7.ts
+#EXT-X-ENDLIST
+

@@ -1,0 +1,32 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/013-综合题[2] MIME与SMTP的关系是.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=670824b30e4172d2873787947905267b74e79320
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215593484_9397ec95bac5415d8f9585d2d2d07166_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215593484_9397ec95bac5415d8f9585d2d2d07166_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215593484_9397ec95bac5415d8f9585d2d2d07166_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215593484_9397ec95bac5415d8f9585d2d2d07166_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215593484_9397ec95bac5415d8f9585d2d2d07166_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215593484_9397ec95bac5415d8f9585d2d2d07166_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215593484_9397ec95bac5415d8f9585d2d2d07166_ehd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215593484_9397ec95bac5415d8f9585d2d2d07166_ehd7.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215593484_9397ec95bac5415d8f9585d2d2d07166_ehd8.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215593484_9397ec95bac5415d8f9585d2d2d07166_ehd9.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215593484_9397ec95bac5415d8f9585d2d2d07166_ehd10.ts
+#EXTINF:2.880000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215593484_9397ec95bac5415d8f9585d2d2d07166_ehd11.ts
+#EXT-X-ENDLIST
+

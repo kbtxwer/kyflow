@@ -1,0 +1,22 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/004-选择题[4] 设森林F中有3棵树，.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=1d935d0660373bbe8c53b20357c49a488cb89d81
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/17/1215530712_0cd69d704ad24438a28b3d137bdf582d_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/17/1215530712_0cd69d704ad24438a28b3d137bdf582d_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/17/1215530712_0cd69d704ad24438a28b3d137bdf582d_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/17/1215530712_0cd69d704ad24438a28b3d137bdf582d_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/17/1215530712_0cd69d704ad24438a28b3d137bdf582d_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/17/1215530712_0cd69d704ad24438a28b3d137bdf582d_ehd5.ts
+#EXTINF:2.200000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/17/1215530712_0cd69d704ad24438a28b3d137bdf582d_ehd6.ts
+#EXT-X-ENDLIST
+

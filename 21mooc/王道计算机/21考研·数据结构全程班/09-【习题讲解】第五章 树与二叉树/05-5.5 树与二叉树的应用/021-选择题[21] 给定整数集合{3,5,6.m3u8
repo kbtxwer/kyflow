@@ -1,0 +1,26 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/021-选择题[21] 给定整数集合{3,5,6.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=f37bfa2e46ad10e3027399afaafe8ca84240e4bd
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215535136_f3cdc6d5f82d4a5882c37fcb22d80f79_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215535136_f3cdc6d5f82d4a5882c37fcb22d80f79_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215535136_f3cdc6d5f82d4a5882c37fcb22d80f79_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215535136_f3cdc6d5f82d4a5882c37fcb22d80f79_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215535136_f3cdc6d5f82d4a5882c37fcb22d80f79_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215535136_f3cdc6d5f82d4a5882c37fcb22d80f79_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215535136_f3cdc6d5f82d4a5882c37fcb22d80f79_ehd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215535136_f3cdc6d5f82d4a5882c37fcb22d80f79_ehd7.ts
+#EXTINF:5.080000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/18/1215535136_f3cdc6d5f82d4a5882c37fcb22d80f79_ehd8.ts
+#EXT-X-ENDLIST
+

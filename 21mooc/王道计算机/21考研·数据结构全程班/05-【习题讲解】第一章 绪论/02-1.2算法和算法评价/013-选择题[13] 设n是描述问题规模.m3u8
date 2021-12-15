@@ -1,0 +1,18 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:17
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/013-选择题[13] 设n是描述问题规模.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=d0c98930540b686050d1e370d17d92d0aa0f8711
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/05/26/1216800122_668de05251ee4451aa55bb7a5a25c0ac_esd0.ts
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/05/26/1216800122_668de05251ee4451aa55bb7a5a25c0ac_esd1.ts
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/05/26/1216800122_668de05251ee4451aa55bb7a5a25c0ac_esd2.ts
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/05/26/1216800122_668de05251ee4451aa55bb7a5a25c0ac_esd3.ts
+#EXTINF:1.533333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/05/26/1216800122_668de05251ee4451aa55bb7a5a25c0ac_esd4.ts
+#EXT-X-ENDLIST
+

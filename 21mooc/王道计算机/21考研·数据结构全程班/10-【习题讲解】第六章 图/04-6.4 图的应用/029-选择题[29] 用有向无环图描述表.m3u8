@@ -1,0 +1,20 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:17
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/029-选择题[29] 用有向无环图描述表.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=d8a4ccaa0eb41d30e10e67cd514d63820f4696c0
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/05/26/1216799192_32fc0808f1af4579aebabf337295fa2b_esd0.ts
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/05/26/1216799192_32fc0808f1af4579aebabf337295fa2b_esd1.ts
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/05/26/1216799192_32fc0808f1af4579aebabf337295fa2b_esd2.ts
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/05/26/1216799192_32fc0808f1af4579aebabf337295fa2b_esd3.ts
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/05/26/1216799192_32fc0808f1af4579aebabf337295fa2b_esd4.ts
+#EXTINF:10.533333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/05/26/1216799192_32fc0808f1af4579aebabf337295fa2b_esd5.ts
+#EXT-X-ENDLIST
+									

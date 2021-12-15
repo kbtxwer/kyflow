@@ -1,26 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-KEY:METHOD=AES-128,URI="key/选择题[1] 下列对临界区的论述.key"
-#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=c8cf7fc2bb27b6fbb3888abde616c2d5f0c06d77
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215597878_b828cc36b8424a7faef5aaf1211c378f_ehd0.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215597878_b828cc36b8424a7faef5aaf1211c378f_ehd1.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215597878_b828cc36b8424a7faef5aaf1211c378f_ehd2.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215597878_b828cc36b8424a7faef5aaf1211c378f_ehd3.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215597878_b828cc36b8424a7faef5aaf1211c378f_ehd4.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215597878_b828cc36b8424a7faef5aaf1211c378f_ehd5.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215597878_b828cc36b8424a7faef5aaf1211c378f_ehd6.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215597878_b828cc36b8424a7faef5aaf1211c378f_ehd7.ts
-#EXTINF:8.240000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215597878_b828cc36b8424a7faef5aaf1211c378f_ehd8.ts
-#EXT-X-ENDLIST
-

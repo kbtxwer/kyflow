@@ -1,32 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-KEY:METHOD=AES-128,URI="key/选择题[6] 在粗缆以太网中可通.key"
-#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=0793573172603e4526f31a6bcaa179f999b81cbe
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215590865_f7927275f5a243d2a856661837e42e1b_ehd0.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215590865_f7927275f5a243d2a856661837e42e1b_ehd1.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215590865_f7927275f5a243d2a856661837e42e1b_ehd2.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215590865_f7927275f5a243d2a856661837e42e1b_ehd3.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215590865_f7927275f5a243d2a856661837e42e1b_ehd4.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215590865_f7927275f5a243d2a856661837e42e1b_ehd5.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215590865_f7927275f5a243d2a856661837e42e1b_ehd6.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215590865_f7927275f5a243d2a856661837e42e1b_ehd7.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215590865_f7927275f5a243d2a856661837e42e1b_ehd8.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215590865_f7927275f5a243d2a856661837e42e1b_ehd9.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215590865_f7927275f5a243d2a856661837e42e1b_ehd10.ts
-#EXTINF:2.680000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215590865_f7927275f5a243d2a856661837e42e1b_ehd11.ts
-#EXT-X-ENDLIST
-

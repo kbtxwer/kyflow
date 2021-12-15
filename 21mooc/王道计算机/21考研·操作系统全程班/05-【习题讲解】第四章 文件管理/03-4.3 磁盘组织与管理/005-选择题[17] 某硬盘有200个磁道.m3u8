@@ -1,0 +1,32 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/005-选择题[17] 某硬盘有200个磁道.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=f17185391a2ea37d8e5d9cd9c87a94f0191d2153
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215604849_5d2040cfc95b40cdbbb3bf37059814e2_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215604849_5d2040cfc95b40cdbbb3bf37059814e2_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215604849_5d2040cfc95b40cdbbb3bf37059814e2_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215604849_5d2040cfc95b40cdbbb3bf37059814e2_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215604849_5d2040cfc95b40cdbbb3bf37059814e2_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215604849_5d2040cfc95b40cdbbb3bf37059814e2_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215604849_5d2040cfc95b40cdbbb3bf37059814e2_ehd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215604849_5d2040cfc95b40cdbbb3bf37059814e2_ehd7.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215604849_5d2040cfc95b40cdbbb3bf37059814e2_ehd8.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215604849_5d2040cfc95b40cdbbb3bf37059814e2_ehd9.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215604849_5d2040cfc95b40cdbbb3bf37059814e2_ehd10.ts
+#EXTINF:8.600000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215604849_5d2040cfc95b40cdbbb3bf37059814e2_ehd11.ts
+#EXT-X-ENDLIST
+

@@ -1,26 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-KEY:METHOD=AES-128,URI="key/选择题[18] A和B之间建立了TCP.key"
-#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=8af56680588ba7e1cb91e467235b0c83251056f3
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215590390_1fcc4c8d4cbe446bb93b944f1f4ef98e_ehd0.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215590390_1fcc4c8d4cbe446bb93b944f1f4ef98e_ehd1.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215590390_1fcc4c8d4cbe446bb93b944f1f4ef98e_ehd2.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215590390_1fcc4c8d4cbe446bb93b944f1f4ef98e_ehd3.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215590390_1fcc4c8d4cbe446bb93b944f1f4ef98e_ehd4.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215590390_1fcc4c8d4cbe446bb93b944f1f4ef98e_ehd5.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215590390_1fcc4c8d4cbe446bb93b944f1f4ef98e_ehd6.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215590390_1fcc4c8d4cbe446bb93b944f1f4ef98e_ehd7.ts
-#EXTINF:1.240000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215590390_1fcc4c8d4cbe446bb93b944f1f4ef98e_ehd8.ts
-#EXT-X-ENDLIST
-

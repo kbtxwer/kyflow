@@ -1,0 +1,38 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/012-选择题[33] 假设系统中有4个同.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=6c6bc93a5175caa2a8f0b00c12869070b1d0ba46
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215597589_54c292a2a1bc45ffbd3973419090eb77_eshd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215597589_54c292a2a1bc45ffbd3973419090eb77_eshd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215597589_54c292a2a1bc45ffbd3973419090eb77_eshd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215597589_54c292a2a1bc45ffbd3973419090eb77_eshd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215597589_54c292a2a1bc45ffbd3973419090eb77_eshd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215597589_54c292a2a1bc45ffbd3973419090eb77_eshd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215597589_54c292a2a1bc45ffbd3973419090eb77_eshd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215597589_54c292a2a1bc45ffbd3973419090eb77_eshd7.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215597589_54c292a2a1bc45ffbd3973419090eb77_eshd8.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215597589_54c292a2a1bc45ffbd3973419090eb77_eshd9.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215597589_54c292a2a1bc45ffbd3973419090eb77_eshd10.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215597589_54c292a2a1bc45ffbd3973419090eb77_eshd11.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215597589_54c292a2a1bc45ffbd3973419090eb77_eshd12.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215597589_54c292a2a1bc45ffbd3973419090eb77_eshd13.ts
+#EXTINF:1.520000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215597589_54c292a2a1bc45ffbd3973419090eb77_eshd14.ts
+#EXT-X-ENDLIST
+

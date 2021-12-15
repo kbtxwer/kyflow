@@ -1,0 +1,22 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/008-选择题[8] 将长度为n的单链表接.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=caaf730563c63992164b6a3b44c7b6a4d0f8f83c
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/13/1215492543_e9a8e20858a74c0286cd5151f81f0c07_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/13/1215492543_e9a8e20858a74c0286cd5151f81f0c07_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/13/1215492543_e9a8e20858a74c0286cd5151f81f0c07_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/13/1215492543_e9a8e20858a74c0286cd5151f81f0c07_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/13/1215492543_e9a8e20858a74c0286cd5151f81f0c07_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/13/1215492543_e9a8e20858a74c0286cd5151f81f0c07_ehd5.ts
+#EXTINF:9.520000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/13/1215492543_e9a8e20858a74c0286cd5151f81f0c07_ehd6.ts
+#EXT-X-ENDLIST
+

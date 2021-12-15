@@ -1,0 +1,24 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/008-选择题[21] 采用SPOOLing技术的.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=0d81ce7b37be5f442dd1136ff807a92ebd4a1b76
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215601887_2dd27f5c997d4b73851827a9993d37e3_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215601887_2dd27f5c997d4b73851827a9993d37e3_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215601887_2dd27f5c997d4b73851827a9993d37e3_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215601887_2dd27f5c997d4b73851827a9993d37e3_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215601887_2dd27f5c997d4b73851827a9993d37e3_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215601887_2dd27f5c997d4b73851827a9993d37e3_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215601887_2dd27f5c997d4b73851827a9993d37e3_ehd6.ts
+#EXTINF:1.320000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215601887_2dd27f5c997d4b73851827a9993d37e3_ehd7.ts
+#EXT-X-ENDLIST
+

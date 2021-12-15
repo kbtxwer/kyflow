@@ -1,0 +1,22 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/026-选择题[26] 假定一台计算机采用.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=f0ffcc173f781b158cf5a40c44cdf1705c9659d0
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/05/26/1216799151_eeaeefa2221e47cab8f12e87a8cd2560_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/05/26/1216799151_eeaeefa2221e47cab8f12e87a8cd2560_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/05/26/1216799151_eeaeefa2221e47cab8f12e87a8cd2560_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/05/26/1216799151_eeaeefa2221e47cab8f12e87a8cd2560_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/05/26/1216799151_eeaeefa2221e47cab8f12e87a8cd2560_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/05/26/1216799151_eeaeefa2221e47cab8f12e87a8cd2560_ehd5.ts
+#EXTINF:6.080000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/05/26/1216799151_eeaeefa2221e47cab8f12e87a8cd2560_ehd6.ts
+#EXT-X-ENDLIST
+

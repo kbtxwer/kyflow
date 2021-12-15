@@ -1,32 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-KEY:METHOD=AES-128,URI="key/综合题[1] CPU中有哪些专用寄存.key"
-#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=c6651cca120e1dfa299595c61da93ffd3aa07e81
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215782656_5c8ddbb985a4479b94b48b3ef4c4fd13_ehd0.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215782656_5c8ddbb985a4479b94b48b3ef4c4fd13_ehd1.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215782656_5c8ddbb985a4479b94b48b3ef4c4fd13_ehd2.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215782656_5c8ddbb985a4479b94b48b3ef4c4fd13_ehd3.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215782656_5c8ddbb985a4479b94b48b3ef4c4fd13_ehd4.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215782656_5c8ddbb985a4479b94b48b3ef4c4fd13_ehd5.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215782656_5c8ddbb985a4479b94b48b3ef4c4fd13_ehd6.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215782656_5c8ddbb985a4479b94b48b3ef4c4fd13_ehd7.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215782656_5c8ddbb985a4479b94b48b3ef4c4fd13_ehd8.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215782656_5c8ddbb985a4479b94b48b3ef4c4fd13_ehd9.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215782656_5c8ddbb985a4479b94b48b3ef4c4fd13_ehd10.ts
-#EXTINF:5.080000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215782656_5c8ddbb985a4479b94b48b3ef4c4fd13_ehd11.ts
-#EXT-X-ENDLIST
-

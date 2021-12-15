@@ -1,0 +1,70 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/018-综合题[3] 已知某二叉树的先序.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=bd00ef4bdf918d8d772070053628e3e859655c31
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048106_9defd5e0572345f5b44c15c62479657d_eshd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048106_9defd5e0572345f5b44c15c62479657d_eshd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048106_9defd5e0572345f5b44c15c62479657d_eshd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048106_9defd5e0572345f5b44c15c62479657d_eshd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048106_9defd5e0572345f5b44c15c62479657d_eshd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048106_9defd5e0572345f5b44c15c62479657d_eshd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048106_9defd5e0572345f5b44c15c62479657d_eshd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048106_9defd5e0572345f5b44c15c62479657d_eshd7.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048106_9defd5e0572345f5b44c15c62479657d_eshd8.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048106_9defd5e0572345f5b44c15c62479657d_eshd9.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048106_9defd5e0572345f5b44c15c62479657d_eshd10.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048106_9defd5e0572345f5b44c15c62479657d_eshd11.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048106_9defd5e0572345f5b44c15c62479657d_eshd12.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048106_9defd5e0572345f5b44c15c62479657d_eshd13.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048106_9defd5e0572345f5b44c15c62479657d_eshd14.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048106_9defd5e0572345f5b44c15c62479657d_eshd15.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048106_9defd5e0572345f5b44c15c62479657d_eshd16.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048106_9defd5e0572345f5b44c15c62479657d_eshd17.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048106_9defd5e0572345f5b44c15c62479657d_eshd18.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048106_9defd5e0572345f5b44c15c62479657d_eshd19.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048106_9defd5e0572345f5b44c15c62479657d_eshd20.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048106_9defd5e0572345f5b44c15c62479657d_eshd21.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048106_9defd5e0572345f5b44c15c62479657d_eshd22.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048106_9defd5e0572345f5b44c15c62479657d_eshd23.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048106_9defd5e0572345f5b44c15c62479657d_eshd24.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048106_9defd5e0572345f5b44c15c62479657d_eshd25.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048106_9defd5e0572345f5b44c15c62479657d_eshd26.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048106_9defd5e0572345f5b44c15c62479657d_eshd27.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048106_9defd5e0572345f5b44c15c62479657d_eshd28.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048106_9defd5e0572345f5b44c15c62479657d_eshd29.ts
+#EXTINF:9.360000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048106_9defd5e0572345f5b44c15c62479657d_eshd30.ts
+#EXT-X-ENDLIST
+

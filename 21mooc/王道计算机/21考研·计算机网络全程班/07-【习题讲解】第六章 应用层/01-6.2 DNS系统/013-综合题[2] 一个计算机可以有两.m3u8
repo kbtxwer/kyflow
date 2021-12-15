@@ -1,0 +1,18 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/013-综合题[2] 一个计算机可以有两.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=d5e65e563425a5678af4e9b6e90482236a0a9b74
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/21/1215836486_21b95f54f80c4f4c9f037b27015d2378_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/21/1215836486_21b95f54f80c4f4c9f037b27015d2378_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/21/1215836486_21b95f54f80c4f4c9f037b27015d2378_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/21/1215836486_21b95f54f80c4f4c9f037b27015d2378_ehd3.ts
+#EXTINF:5.080000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/21/1215836486_21b95f54f80c4f4c9f037b27015d2378_ehd4.ts
+#EXT-X-ENDLIST
+

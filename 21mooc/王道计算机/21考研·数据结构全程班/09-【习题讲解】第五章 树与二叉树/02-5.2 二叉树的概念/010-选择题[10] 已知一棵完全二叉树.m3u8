@@ -1,0 +1,30 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/010-选择题[10] 已知一棵完全二叉树.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=24897f6eb47b09243a4681ceac157e148321bb07
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048057_d9150bdb8fa94ed3a5d0b21f58614a54_eshd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048057_d9150bdb8fa94ed3a5d0b21f58614a54_eshd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048057_d9150bdb8fa94ed3a5d0b21f58614a54_eshd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048057_d9150bdb8fa94ed3a5d0b21f58614a54_eshd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048057_d9150bdb8fa94ed3a5d0b21f58614a54_eshd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048057_d9150bdb8fa94ed3a5d0b21f58614a54_eshd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048057_d9150bdb8fa94ed3a5d0b21f58614a54_eshd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048057_d9150bdb8fa94ed3a5d0b21f58614a54_eshd7.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048057_d9150bdb8fa94ed3a5d0b21f58614a54_eshd8.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048057_d9150bdb8fa94ed3a5d0b21f58614a54_eshd9.ts
+#EXTINF:4.520000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/02/24/1216048057_d9150bdb8fa94ed3a5d0b21f58614a54_eshd10.ts
+#EXT-X-ENDLIST
+

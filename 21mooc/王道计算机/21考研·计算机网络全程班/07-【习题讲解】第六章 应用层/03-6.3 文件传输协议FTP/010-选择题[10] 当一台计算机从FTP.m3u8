@@ -1,0 +1,26 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/010-选择题[10] 当一台计算机从FTP.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=c5ed7bb5852e50452f5c83791a8b27cb7fc3841c
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215592540_2754f1aa454d4e0d9d0256a19156b03d_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215592540_2754f1aa454d4e0d9d0256a19156b03d_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215592540_2754f1aa454d4e0d9d0256a19156b03d_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215592540_2754f1aa454d4e0d9d0256a19156b03d_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215592540_2754f1aa454d4e0d9d0256a19156b03d_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215592540_2754f1aa454d4e0d9d0256a19156b03d_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215592540_2754f1aa454d4e0d9d0256a19156b03d_ehd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215592540_2754f1aa454d4e0d9d0256a19156b03d_ehd7.ts
+#EXTINF:1.840000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215592540_2754f1aa454d4e0d9d0256a19156b03d_ehd8.ts
+#EXT-X-ENDLIST
+

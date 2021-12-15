@@ -1,0 +1,32 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/002-选择题[2] 下列关于USB总线特性.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=3439bd15dadcbf9506e660107c6f37fd85ca5427
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215789079_ecb16354dd2a4f6abe1cbfd861d0c73d_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215789079_ecb16354dd2a4f6abe1cbfd861d0c73d_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215789079_ecb16354dd2a4f6abe1cbfd861d0c73d_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215789079_ecb16354dd2a4f6abe1cbfd861d0c73d_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215789079_ecb16354dd2a4f6abe1cbfd861d0c73d_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215789079_ecb16354dd2a4f6abe1cbfd861d0c73d_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215789079_ecb16354dd2a4f6abe1cbfd861d0c73d_ehd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215789079_ecb16354dd2a4f6abe1cbfd861d0c73d_ehd7.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215789079_ecb16354dd2a4f6abe1cbfd861d0c73d_ehd8.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215789079_ecb16354dd2a4f6abe1cbfd861d0c73d_ehd9.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215789079_ecb16354dd2a4f6abe1cbfd861d0c73d_ehd10.ts
+#EXTINF:3.440000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215789079_ecb16354dd2a4f6abe1cbfd861d0c73d_ehd11.ts
+#EXT-X-ENDLIST
+

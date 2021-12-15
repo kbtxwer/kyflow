@@ -1,0 +1,32 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/046-综合题[10] 设TCP的拥塞窗口的.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=7dc6ffce2e7ac1a0d1ebbb2190d38e5016f3538c
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592361_8aaeab79c37943f38f735fb3672dbc7e_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592361_8aaeab79c37943f38f735fb3672dbc7e_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592361_8aaeab79c37943f38f735fb3672dbc7e_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592361_8aaeab79c37943f38f735fb3672dbc7e_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592361_8aaeab79c37943f38f735fb3672dbc7e_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592361_8aaeab79c37943f38f735fb3672dbc7e_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592361_8aaeab79c37943f38f735fb3672dbc7e_ehd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592361_8aaeab79c37943f38f735fb3672dbc7e_ehd7.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592361_8aaeab79c37943f38f735fb3672dbc7e_ehd8.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592361_8aaeab79c37943f38f735fb3672dbc7e_ehd9.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592361_8aaeab79c37943f38f735fb3672dbc7e_ehd10.ts
+#EXTINF:7.200000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215592361_8aaeab79c37943f38f735fb3672dbc7e_ehd11.ts
+#EXT-X-ENDLIST
+

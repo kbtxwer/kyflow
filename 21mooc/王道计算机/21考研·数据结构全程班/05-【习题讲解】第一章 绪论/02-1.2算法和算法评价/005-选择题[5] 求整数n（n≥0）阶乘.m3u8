@@ -1,0 +1,22 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/005-选择题[5] 求整数n（n≥0）阶乘.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=f2b61b3216e61c9efae0211adad55afa3e4d82be
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/10/1215476747_a33b02d228194c169da30aceecb174fd_eshd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/10/1215476747_a33b02d228194c169da30aceecb174fd_eshd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/10/1215476747_a33b02d228194c169da30aceecb174fd_eshd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/10/1215476747_a33b02d228194c169da30aceecb174fd_eshd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/10/1215476747_a33b02d228194c169da30aceecb174fd_eshd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/10/1215476747_a33b02d228194c169da30aceecb174fd_eshd5.ts
+#EXTINF:8.680000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/10/1215476747_a33b02d228194c169da30aceecb174fd_eshd6.ts
+#EXT-X-ENDLIST
+									

@@ -1,0 +1,22 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/004-选择题[4] UDP数据报中的长度字.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=29c295b8dbccecc7739c449f700b12b4cd285f27
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215594130_9990761914eb41bdaf44f156e3263811_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215594130_9990761914eb41bdaf44f156e3263811_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215594130_9990761914eb41bdaf44f156e3263811_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215594130_9990761914eb41bdaf44f156e3263811_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215594130_9990761914eb41bdaf44f156e3263811_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215594130_9990761914eb41bdaf44f156e3263811_ehd5.ts
+#EXTINF:2.480000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215594130_9990761914eb41bdaf44f156e3263811_ehd6.ts
+#EXT-X-ENDLIST
+

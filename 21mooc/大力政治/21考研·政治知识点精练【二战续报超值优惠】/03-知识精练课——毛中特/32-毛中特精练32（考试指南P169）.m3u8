@@ -1,26 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-KEY:METHOD=AES-128,URI="key/32-毛中特精练32（考试指南P169）.key"
-#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=6deca4ee105bb9a97ff0ee95f7b37064bd03d2a4
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217133779_ee4b5924e62c4d28a7901a1c5e683d1c_ehd0.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217133779_ee4b5924e62c4d28a7901a1c5e683d1c_ehd1.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217133779_ee4b5924e62c4d28a7901a1c5e683d1c_ehd2.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217133779_ee4b5924e62c4d28a7901a1c5e683d1c_ehd3.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217133779_ee4b5924e62c4d28a7901a1c5e683d1c_ehd4.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217133779_ee4b5924e62c4d28a7901a1c5e683d1c_ehd5.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217133779_ee4b5924e62c4d28a7901a1c5e683d1c_ehd6.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217133779_ee4b5924e62c4d28a7901a1c5e683d1c_ehd7.ts
-#EXTINF:9.360000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/08/17/1217133779_ee4b5924e62c4d28a7901a1c5e683d1c_ehd8.ts
-#EXT-X-ENDLIST
-

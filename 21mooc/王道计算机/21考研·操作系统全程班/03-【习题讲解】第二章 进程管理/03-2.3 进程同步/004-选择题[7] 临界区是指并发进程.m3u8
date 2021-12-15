@@ -1,0 +1,22 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/004-选择题[7] 临界区是指并发进程.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=ba1555f2df954bad4b5c6e07793044dbcfae312e
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215596892_93e415d9c7cb47e3bedd8c70427f4571_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215596892_93e415d9c7cb47e3bedd8c70427f4571_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215596892_93e415d9c7cb47e3bedd8c70427f4571_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215596892_93e415d9c7cb47e3bedd8c70427f4571_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215596892_93e415d9c7cb47e3bedd8c70427f4571_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215596892_93e415d9c7cb47e3bedd8c70427f4571_ehd5.ts
+#EXTINF:9.640000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215596892_93e415d9c7cb47e3bedd8c70427f4571_ehd6.ts
+#EXT-X-ENDLIST
+

@@ -1,0 +1,20 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:17
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/003-选择题[3] 直接寻址的无条件转.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=e8022aa983a4644c53f97efddc3e9e0fdc8d4b4f
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215781495_8891e5cc926c43bdb84dc45167c33249_ehd0.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215781495_8891e5cc926c43bdb84dc45167c33249_ehd1.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215781495_8891e5cc926c43bdb84dc45167c33249_ehd2.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215781495_8891e5cc926c43bdb84dc45167c33249_ehd3.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215781495_8891e5cc926c43bdb84dc45167c33249_ehd4.ts
+#EXTINF:15.966667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215781495_8891e5cc926c43bdb84dc45167c33249_ehd5.ts
+#EXT-X-ENDLIST
+

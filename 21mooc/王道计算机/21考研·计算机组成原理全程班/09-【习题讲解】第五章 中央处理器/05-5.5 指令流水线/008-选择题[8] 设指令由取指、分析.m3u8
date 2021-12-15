@@ -1,0 +1,24 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:17
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/008-选择题[8] 设指令由取指、分析.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=44d61db7aae34209a301aaf40ca7e7a5eb4bf098
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215788102_bde4b6982a96430584474403dfd96a1a_ehd0.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215788102_bde4b6982a96430584474403dfd96a1a_ehd1.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215788102_bde4b6982a96430584474403dfd96a1a_ehd2.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215788102_bde4b6982a96430584474403dfd96a1a_ehd3.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215788102_bde4b6982a96430584474403dfd96a1a_ehd4.ts
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215788102_bde4b6982a96430584474403dfd96a1a_ehd5.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215788102_bde4b6982a96430584474403dfd96a1a_ehd6.ts
+#EXTINF:2.866667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/08/1215788102_bde4b6982a96430584474403dfd96a1a_ehd7.ts
+#EXT-X-ENDLIST
+

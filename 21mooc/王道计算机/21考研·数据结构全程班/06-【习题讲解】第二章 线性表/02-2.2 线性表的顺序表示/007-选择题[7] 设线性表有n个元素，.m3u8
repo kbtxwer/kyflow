@@ -1,0 +1,32 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/007-选择题[7] 设线性表有n个元素，.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=b8eedca4fa651e8bae00fd4e08cc59ddb97b17f9
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/13/1215491599_0d6b18c00c4b472eb7494f5084805dad_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/13/1215491599_0d6b18c00c4b472eb7494f5084805dad_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/13/1215491599_0d6b18c00c4b472eb7494f5084805dad_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/13/1215491599_0d6b18c00c4b472eb7494f5084805dad_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/13/1215491599_0d6b18c00c4b472eb7494f5084805dad_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/13/1215491599_0d6b18c00c4b472eb7494f5084805dad_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/13/1215491599_0d6b18c00c4b472eb7494f5084805dad_ehd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/13/1215491599_0d6b18c00c4b472eb7494f5084805dad_ehd7.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/13/1215491599_0d6b18c00c4b472eb7494f5084805dad_ehd8.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/13/1215491599_0d6b18c00c4b472eb7494f5084805dad_ehd9.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/13/1215491599_0d6b18c00c4b472eb7494f5084805dad_ehd10.ts
+#EXTINF:6.080000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/13/1215491599_0d6b18c00c4b472eb7494f5084805dad_ehd11.ts
+#EXT-X-ENDLIST
+

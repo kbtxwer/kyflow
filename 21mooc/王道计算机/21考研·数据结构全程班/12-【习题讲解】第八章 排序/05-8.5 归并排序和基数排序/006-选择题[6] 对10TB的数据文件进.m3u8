@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/006-选择题[6] 对10TB的数据文件进.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=615e636515e3bba9f2b696710456c0d930b163b4
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/24/1215560616_4ef602c89e3b4bd282dc2c5ba3c9336e_eshd0.ts
+#EXTINF:7.760000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/24/1215560616_4ef602c89e3b4bd282dc2c5ba3c9336e_eshd1.ts
+#EXT-X-ENDLIST
+

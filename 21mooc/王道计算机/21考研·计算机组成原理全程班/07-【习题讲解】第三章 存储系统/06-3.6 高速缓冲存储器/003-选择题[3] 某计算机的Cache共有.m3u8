@@ -1,0 +1,24 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/003-选择题[3] 某计算机的Cache共有.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=55b750411900ac531f5110f37bf4e3ec9d65fa2e
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215760012_d3561dc9f4ea4cb690109bf03d52ae93_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215760012_d3561dc9f4ea4cb690109bf03d52ae93_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215760012_d3561dc9f4ea4cb690109bf03d52ae93_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215760012_d3561dc9f4ea4cb690109bf03d52ae93_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215760012_d3561dc9f4ea4cb690109bf03d52ae93_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215760012_d3561dc9f4ea4cb690109bf03d52ae93_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215760012_d3561dc9f4ea4cb690109bf03d52ae93_ehd6.ts
+#EXTINF:0.240000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215760012_d3561dc9f4ea4cb690109bf03d52ae93_ehd7.ts
+#EXT-X-ENDLIST
+

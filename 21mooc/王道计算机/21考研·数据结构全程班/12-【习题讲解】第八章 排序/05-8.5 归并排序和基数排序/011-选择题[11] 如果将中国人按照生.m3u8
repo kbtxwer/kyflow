@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/011-选择题[11] 如果将中国人按照生.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=67a488521c8027ac1f1ae44bd9792dd28e3e2e97
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/24/1215559602_626e39d2a7984eb1901a5635aaccdf5a_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/24/1215559602_626e39d2a7984eb1901a5635aaccdf5a_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/24/1215559602_626e39d2a7984eb1901a5635aaccdf5a_ehd2.ts
+#EXTINF:7.800000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/24/1215559602_626e39d2a7984eb1901a5635aaccdf5a_ehd3.ts
+#EXT-X-ENDLIST
+

@@ -1,0 +1,20 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:17
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/009-选择题[9] 程序计数器(PC）属于.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=09815907db8881f2e0ca880aa5b58becd2b1ceb9
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215783544_e529b40b49b04cafbc0a3d0b44e169f7_ehd0.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215783544_e529b40b49b04cafbc0a3d0b44e169f7_ehd1.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215783544_e529b40b49b04cafbc0a3d0b44e169f7_ehd2.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215783544_e529b40b49b04cafbc0a3d0b44e169f7_ehd3.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215783544_e529b40b49b04cafbc0a3d0b44e169f7_ehd4.ts
+#EXTINF:0.300000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/07/1215783544_e529b40b49b04cafbc0a3d0b44e169f7_ehd5.ts
+#EXT-X-ENDLIST
+

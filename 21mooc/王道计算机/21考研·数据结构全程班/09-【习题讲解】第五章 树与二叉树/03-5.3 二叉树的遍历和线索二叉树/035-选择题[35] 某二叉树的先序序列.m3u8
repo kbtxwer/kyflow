@@ -1,0 +1,26 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/035-选择题[35] 某二叉树的先序序列.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=2a2689e0323309062c3d7fc8f6cc820c1620c88f
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/04/07/1216413909_5426007cf7f2490c9f88a451a855bd5c_eshd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/04/07/1216413909_5426007cf7f2490c9f88a451a855bd5c_eshd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/04/07/1216413909_5426007cf7f2490c9f88a451a855bd5c_eshd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/04/07/1216413909_5426007cf7f2490c9f88a451a855bd5c_eshd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/04/07/1216413909_5426007cf7f2490c9f88a451a855bd5c_eshd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/04/07/1216413909_5426007cf7f2490c9f88a451a855bd5c_eshd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/04/07/1216413909_5426007cf7f2490c9f88a451a855bd5c_eshd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/04/07/1216413909_5426007cf7f2490c9f88a451a855bd5c_eshd7.ts
+#EXTINF:8.400000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/04/07/1216413909_5426007cf7f2490c9f88a451a855bd5c_eshd8.ts
+#EXT-X-ENDLIST
+

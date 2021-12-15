@@ -1,0 +1,20 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:17
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/034-选择题[34] 设机器数采用补码表.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=1fb4e97187822a7f880085f2c1f66fe4c8d277e4
+#EXTINF:16.666667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215753870_c8055ddaf9504c6fb6f673f9ccb48abd_ehd0.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215753870_c8055ddaf9504c6fb6f673f9ccb48abd_ehd1.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215753870_c8055ddaf9504c6fb6f673f9ccb48abd_ehd2.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215753870_c8055ddaf9504c6fb6f673f9ccb48abd_ehd3.ts
+#EXTINF:8.333333,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215753870_c8055ddaf9504c6fb6f673f9ccb48abd_ehd4.ts
+#EXTINF:6.766667,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215753870_c8055ddaf9504c6fb6f673f9ccb48abd_ehd5.ts
+#EXT-X-ENDLIST
+

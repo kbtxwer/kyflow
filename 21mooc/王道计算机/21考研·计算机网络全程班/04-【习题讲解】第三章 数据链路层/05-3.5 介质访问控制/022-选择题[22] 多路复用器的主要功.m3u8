@@ -1,0 +1,22 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/022-选择题[22] 多路复用器的主要功.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=98c52bc5ee6a0cb6f8cf259838397cd9d4273292
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215589972_0ab33322b66d4c949c0583a6a2ca50fc_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215589972_0ab33322b66d4c949c0583a6a2ca50fc_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215589972_0ab33322b66d4c949c0583a6a2ca50fc_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215589972_0ab33322b66d4c949c0583a6a2ca50fc_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215589972_0ab33322b66d4c949c0583a6a2ca50fc_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215589972_0ab33322b66d4c949c0583a6a2ca50fc_ehd5.ts
+#EXTINF:3.720000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/30/1215589972_0ab33322b66d4c949c0583a6a2ca50fc_ehd6.ts
+#EXT-X-ENDLIST
+

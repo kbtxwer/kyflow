@@ -1,40 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:17
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-KEY:METHOD=AES-128,URI="key/选择题[1] 并行加法器中,每位全.key"
-#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=69618540e2652afbb12492148a8cc8c6a9f4556d
-#EXTINF:16.666667,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755898_e2f61803a7fc4054839232166e69b89d_ehd0.ts
-#EXTINF:8.333333,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755898_e2f61803a7fc4054839232166e69b89d_ehd1.ts
-#EXTINF:8.333333,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755898_e2f61803a7fc4054839232166e69b89d_ehd2.ts
-#EXTINF:8.333333,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755898_e2f61803a7fc4054839232166e69b89d_ehd3.ts
-#EXTINF:8.333333,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755898_e2f61803a7fc4054839232166e69b89d_ehd4.ts
-#EXTINF:16.666667,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755898_e2f61803a7fc4054839232166e69b89d_ehd5.ts
-#EXTINF:8.333333,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755898_e2f61803a7fc4054839232166e69b89d_ehd6.ts
-#EXTINF:8.333333,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755898_e2f61803a7fc4054839232166e69b89d_ehd7.ts
-#EXTINF:8.333333,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755898_e2f61803a7fc4054839232166e69b89d_ehd8.ts
-#EXTINF:8.333333,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755898_e2f61803a7fc4054839232166e69b89d_ehd9.ts
-#EXTINF:16.666667,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755898_e2f61803a7fc4054839232166e69b89d_ehd10.ts
-#EXTINF:8.333333,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755898_e2f61803a7fc4054839232166e69b89d_ehd11.ts
-#EXTINF:8.333333,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755898_e2f61803a7fc4054839232166e69b89d_ehd12.ts
-#EXTINF:8.333333,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755898_e2f61803a7fc4054839232166e69b89d_ehd13.ts
-#EXTINF:8.333333,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755898_e2f61803a7fc4054839232166e69b89d_ehd14.ts
-#EXTINF:5.866667,
-http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/03/1215755898_e2f61803a7fc4054839232166e69b89d_ehd15.ts
-#EXT-X-ENDLIST
-

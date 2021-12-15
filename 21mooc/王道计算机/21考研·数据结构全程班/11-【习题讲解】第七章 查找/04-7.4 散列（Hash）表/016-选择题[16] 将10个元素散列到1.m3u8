@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/016-选择题[16] 将10个元素散列到1.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=d970a8950b0843dfcadd437dfa3ab2d5d5646dfc
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/20/1215548276_b6b6bb8e48d4453fbcdd8da3b51a4f10_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/20/1215548276_b6b6bb8e48d4453fbcdd8da3b51a4f10_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/20/1215548276_b6b6bb8e48d4453fbcdd8da3b51a4f10_ehd2.ts
+#EXTINF:4.360000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/20/1215548276_b6b6bb8e48d4453fbcdd8da3b51a4f10_ehd3.ts
+#EXT-X-ENDLIST
+

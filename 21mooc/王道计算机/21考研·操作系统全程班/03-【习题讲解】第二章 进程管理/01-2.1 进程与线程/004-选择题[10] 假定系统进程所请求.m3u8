@@ -1,0 +1,24 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/004-选择题[10] 假定系统进程所请求.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=6a72d7266b775fbd2be2a114e9f922bb2cf77469
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215594459_7a4fd712a1c347758b1a26afea51448b_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215594459_7a4fd712a1c347758b1a26afea51448b_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215594459_7a4fd712a1c347758b1a26afea51448b_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215594459_7a4fd712a1c347758b1a26afea51448b_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215594459_7a4fd712a1c347758b1a26afea51448b_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215594459_7a4fd712a1c347758b1a26afea51448b_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215594459_7a4fd712a1c347758b1a26afea51448b_ehd6.ts
+#EXTINF:9.720000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/31/1215594459_7a4fd712a1c347758b1a26afea51448b_ehd7.ts
+#EXT-X-ENDLIST
+

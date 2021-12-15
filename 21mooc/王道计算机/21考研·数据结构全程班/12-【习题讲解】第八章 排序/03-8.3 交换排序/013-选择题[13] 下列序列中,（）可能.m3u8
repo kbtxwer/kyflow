@@ -1,0 +1,25 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:32
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/013-选择题[13] 下列序列中,（）可能.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=e75ae47c0ef0788d5ee209d29ca233ae5fad43c2
+#EXTINF:31.250000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/06/01/1216830478_e39579a065d146dd88b46c8f5abd9029_eshd0.ts
+#EXTINF:31.250000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/06/01/1216830478_e39579a065d146dd88b46c8f5abd9029_eshd1.ts
+#EXTINF:31.250000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/06/01/1216830478_e39579a065d146dd88b46c8f5abd9029_eshd2.ts
+#EXTINF:1.875000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/06/01/1216830478_e39579a065d146dd88b46c8f5abd9029_eshd3.ts
+#EXT-X-ENDLIST
+
+
+
+
+
+
+
+
+
+

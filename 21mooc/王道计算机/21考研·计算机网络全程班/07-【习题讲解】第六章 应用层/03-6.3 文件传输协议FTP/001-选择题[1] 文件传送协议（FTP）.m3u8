@@ -1,0 +1,18 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/001-选择题[1] 文件传送协议（FTP）.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=23bd7623633b5d0134eaaf8063d134edf38052d6
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/21/1215831479_58180acd3de84bb0849c071c71fcb71d_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/21/1215831479_58180acd3de84bb0849c071c71fcb71d_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/21/1215831479_58180acd3de84bb0849c071c71fcb71d_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/21/1215831479_58180acd3de84bb0849c071c71fcb71d_ehd3.ts
+#EXTINF:6.640000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/21/1215831479_58180acd3de84bb0849c071c71fcb71d_ehd4.ts
+#EXT-X-ENDLIST
+

@@ -1,0 +1,18 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/011-选择题[11] 匿名FTP访问通常使.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=5af643c81b890a847d55b0d8e7529af391dbd8d0
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/21/1215832511_73b99fb23a084e2bb5450fcc9eaedbe7_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/21/1215832511_73b99fb23a084e2bb5450fcc9eaedbe7_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/21/1215832511_73b99fb23a084e2bb5450fcc9eaedbe7_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/21/1215832511_73b99fb23a084e2bb5450fcc9eaedbe7_ehd3.ts
+#EXTINF:0.560000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/21/1215832511_73b99fb23a084e2bb5450fcc9eaedbe7_ehd4.ts
+#EXT-X-ENDLIST
+

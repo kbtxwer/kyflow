@@ -1,0 +1,32 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="key/005-选择题[21] 系统将数据从磁盘读.key"
+#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=82e128ffc970ad75265b102d1ae86f1eb9e3bc4c
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215603843_101fa22a745e4fb78b8dfff62db6d80d_ehd0.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215603843_101fa22a745e4fb78b8dfff62db6d80d_ehd1.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215603843_101fa22a745e4fb78b8dfff62db6d80d_ehd2.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215603843_101fa22a745e4fb78b8dfff62db6d80d_ehd3.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215603843_101fa22a745e4fb78b8dfff62db6d80d_ehd4.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215603843_101fa22a745e4fb78b8dfff62db6d80d_ehd5.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215603843_101fa22a745e4fb78b8dfff62db6d80d_ehd6.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215603843_101fa22a745e4fb78b8dfff62db6d80d_ehd7.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215603843_101fa22a745e4fb78b8dfff62db6d80d_ehd8.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215603843_101fa22a745e4fb78b8dfff62db6d80d_ehd9.ts
+#EXTINF:10.000000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215603843_101fa22a745e4fb78b8dfff62db6d80d_ehd10.ts
+#EXTINF:4.200000,
+http://mooc2vod.stu.126.net/nos/ept/hls/2020/01/02/1215603843_101fa22a745e4fb78b8dfff62db6d80d_ehd11.ts
+#EXT-X-ENDLIST
+

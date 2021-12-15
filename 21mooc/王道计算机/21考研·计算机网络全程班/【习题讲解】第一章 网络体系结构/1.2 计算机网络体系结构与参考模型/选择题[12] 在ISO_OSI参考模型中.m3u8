@@ -1,58 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-KEY:METHOD=AES-128,URI="key/选择题[12] 在ISO_OSI参考模型中.key"
-#EXT-CUSTOM-YUNXIN:ntsversion=0,ntsprivatedata=1aaa6795532604ac598b730bc16f1bcbb901531f
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/25/1215566400_e77c57ceb6c64b63968d181af7bab1ea_ehd0.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/25/1215566400_e77c57ceb6c64b63968d181af7bab1ea_ehd1.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/25/1215566400_e77c57ceb6c64b63968d181af7bab1ea_ehd2.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/25/1215566400_e77c57ceb6c64b63968d181af7bab1ea_ehd3.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/25/1215566400_e77c57ceb6c64b63968d181af7bab1ea_ehd4.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/25/1215566400_e77c57ceb6c64b63968d181af7bab1ea_ehd5.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/25/1215566400_e77c57ceb6c64b63968d181af7bab1ea_ehd6.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/25/1215566400_e77c57ceb6c64b63968d181af7bab1ea_ehd7.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/25/1215566400_e77c57ceb6c64b63968d181af7bab1ea_ehd8.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/25/1215566400_e77c57ceb6c64b63968d181af7bab1ea_ehd9.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/25/1215566400_e77c57ceb6c64b63968d181af7bab1ea_ehd10.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/25/1215566400_e77c57ceb6c64b63968d181af7bab1ea_ehd11.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/25/1215566400_e77c57ceb6c64b63968d181af7bab1ea_ehd12.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/25/1215566400_e77c57ceb6c64b63968d181af7bab1ea_ehd13.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/25/1215566400_e77c57ceb6c64b63968d181af7bab1ea_ehd14.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/25/1215566400_e77c57ceb6c64b63968d181af7bab1ea_ehd15.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/25/1215566400_e77c57ceb6c64b63968d181af7bab1ea_ehd16.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/25/1215566400_e77c57ceb6c64b63968d181af7bab1ea_ehd17.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/25/1215566400_e77c57ceb6c64b63968d181af7bab1ea_ehd18.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/25/1215566400_e77c57ceb6c64b63968d181af7bab1ea_ehd19.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/25/1215566400_e77c57ceb6c64b63968d181af7bab1ea_ehd20.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/25/1215566400_e77c57ceb6c64b63968d181af7bab1ea_ehd21.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/25/1215566400_e77c57ceb6c64b63968d181af7bab1ea_ehd22.ts
-#EXTINF:10.000000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/25/1215566400_e77c57ceb6c64b63968d181af7bab1ea_ehd23.ts
-#EXTINF:2.360000,
-http://mooc2vod.stu.126.net/nos/ept/hls/2019/12/25/1215566400_e77c57ceb6c64b63968d181af7bab1ea_ehd24.ts
-#EXT-X-ENDLIST
-
